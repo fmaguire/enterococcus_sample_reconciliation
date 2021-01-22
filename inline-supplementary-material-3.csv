@@ -1,0 +1,1444 @@
+Table S2: Isolate details								
+Isolate ID	Accession number	Origin	BAPS group	ST	Location	Ampicillin resistance	Vancomycin resistance	Removed in deduplication
+10678_8#11	ERR369948	Human invasive infection	2	117	Hospital 34	R	R	
+10678_8#14	ERR369951	Human invasive infection	1	117	Hospital 1	R	R	
+10678_8#17	ERR369954	Human invasive infection	1	186	Hospital 1	R	R	
+10678_8#18	ERR369955	Human invasive infection	5	22	Hospital 1	S	S	
+10678_8#19	ERR369956	Human invasive infection	1	132	Hospital 1	R	R	
+10678_8#2	ERR369939	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#20	ERR369957	Human invasive infection	5	22	Hospital 1	S	S	
+10678_8#21	ERR369958	Human invasive infection	1	1043	Hospital 1	R	R	
+10678_8#25	ERR369962	Human invasive infection	1	17	Hospital 1	R	R	
+10678_8#27	ERR369964	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#28	ERR369965	Human invasive infection	1	17	Hospital 1	R	R	
+10678_8#29	ERR369966	Human invasive infection	9	78	Hospital 1	R	S	
+10678_8#3	ERR369940	Human invasive infection	1	1481	Hospital 1	R	S	
+10678_8#30	ERR369967	Human invasive infection	1	202	Hospital 1	R	R	
+10678_8#32	ERR369969	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#34	ERR369971	Human invasive infection	2	117	Hospital 1	R	R	
+10678_8#35	ERR369972	Human invasive infection	9	412	Hospital 1	R	R	
+10678_8#37	ERR369974	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#39	ERR369976	Human invasive infection	1	64	Hospital 1	R	S	
+10678_8#4	ERR369941	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#41	ERR369978	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#43	ERR369980	Human invasive infection	1	17	Hospital 1	R	R	
+10678_8#44	ERR369981	Human invasive infection	9	78	Hospital 1	R	R	
+10678_8#45	ERR369982	Human invasive infection	1	202	Hospital 1	R	R	
+10678_8#46	ERR369983	Human invasive infection	1	17	Hospital 1	R	R	
+10678_8#48	ERR369985	Human invasive infection	2	117	Hospital 1	R	R	
+10678_8#51	ERR369988	Human invasive infection	1	132	Hospital 1	R	R	Removed
+10678_8#53	ERR369990	Human invasive infection	2	117	Hospital 1	R	S	
+10678_8#54	ERR369991	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#55	ERR369992	Human invasive infection	9	192	Hospital 1	R	R	
+10678_8#56	ERR369993	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#58	ERR369995	Human invasive infection	9	192	Hospital 1	R	R	
+10678_8#59	ERR369996	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#60	ERR369997	Human invasive infection	1	17	Hospital 2	R	S	
+10678_8#61	ERR369998	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#62	ERR369999	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#63	ERR370000	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#64	ERR370001	Human invasive infection	2	117	Hospital 1	R	R	
+10678_8#66	ERR370003	Human invasive infection	1	290	Hospital 1	R	R	
+10678_8#67	ERR370004	Human invasive infection	9	192	Hospital 1	R	R	Removed
+10678_8#68	ERR370005	Human invasive infection	9	78	Hospital 1	R	S	
+10678_8#7	ERR369944	Human invasive infection	9	616	Hospital 1	R	R	
+10678_8#70	ERR370007	Human invasive infection	1	1043	Hospital 1	R	R	
+10678_8#71	ERR370008	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10678_8#74	ERR370011	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#75	ERR370012	Human invasive infection	4	262	Hospital 1	R	S	
+10678_8#76	ERR370013	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#78	ERR370015	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#8	ERR369945	Human invasive infection	9	412	Hospital 1	R	S	
+10678_8#81	ERR370018	Human invasive infection	9	192	Hospital 1	R	R	
+10678_8#82	ERR370019	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#83	ERR370020	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10678_8#84	ERR370021	Human invasive infection	1	18	Hospital 1	R	R	
+10678_8#85	ERR370022	Human invasive infection	9	203	Hospital 1	R	S	Removed
+10678_8#86	ERR370023	Human invasive infection	9	412	Hospital 1	R	S	
+10678_8#87	ERR370024	Human invasive infection	1	132	Hospital 1	R	R	
+10678_8#88	ERR370025	Human invasive infection	2	117	Hospital 1	R	R	
+10678_8#9	ERR369946	Human invasive infection	1	202	Hospital 1	R	R	
+10678_8#92	ERR370029	Human invasive infection	9	203	Hospital 1	R	R	
+10678_8#93	ERR370030	Human invasive infection	1	18	Hospital 1	R	S	
+10678_8#94	ERR370031	Human invasive infection	2	117	Hospital 1	R	R	
+10678_8#95	ERR370032	Human invasive infection	1	17	Hospital 1	R	S	
+10678_8#96	ERR370033	Human invasive infection	9	192	Hospital 1	R	R	
+10702_7#12	ERR374660	Human invasive infection	1	1477	Hospital 28	R	R	
+10702_7#14	ERR374662	Human invasive infection	1	18	Hospital 1	R	R	
+10702_7#15	ERR374663	Human invasive infection	9	78	Hospital 12	R	R	
+10702_7#16	ERR374664	Human invasive infection	1	17	Hospital 36	R	R	
+10702_7#20	ERR374668	Human invasive infection	1	17	Hospital 1	R	R	
+10702_7#21	ERR374669	Human invasive infection	1	16	Hospital 9	R	S	
+10702_7#22	ERR374670	Human invasive infection	1	132	Hospital 7	R	R	
+10702_7#23	ERR374671	Human invasive infection	1	17	Hospital 6	R	R	
+10702_7#25	ERR374673	Human invasive infection	1	202	Hospital 1	R	R	
+10702_7#26	ERR374674	Human invasive infection	1	18	Hospital 40	R	R	
+10702_7#27	ERR374675	Human invasive infection	9	412	Hospital 9	R	S	
+10702_7#28	ERR374676	Human invasive infection	1	18	Hospital 10	R	S	
+10702_7#30	ERR374678	Human invasive infection	4	1035	Hospital 8	S	S	
+10702_7#31	ERR374679	Human invasive infection	1	665	Hospital 38	R	S	
+10702_7#32	ERR374680	Human invasive infection	1	202	Hospital 13	R	S	
+10702_7#33	ERR374681	Human invasive infection	1	17	Hospital 40	R	S	
+10702_7#34	ERR374682	Human invasive infection	1	17	Hospital 14	R	R	
+10702_7#35	ERR374683	Human invasive infection	1	17	Hospital 12	R	S	
+10702_7#37	ERR374685	Human invasive infection	9	192	Hospital 25	R	S	
+10702_7#38	ERR374686	Human invasive infection	9	412	Hospital 9	R	S	
+10702_7#40	ERR374688	Human invasive infection	1	17	Hospital 28	R	S	
+10702_7#41	ERR374689	Human invasive infection	1	202	Hospital 31	R	R	
+10702_7#44	ERR374692	Human invasive infection	2	80	Hospital 24	R	S	
+10702_7#45	ERR374693	Human invasive infection	2	280	Hospital 8	R	R	
+10702_7#46	ERR374694	Human invasive infection	9	192	Hospital 10	R	S	
+10702_7#48	ERR374696	Human invasive infection	2	280	Hospital 36	R	S	
+10702_7#49	ERR374697	Human invasive infection	1	17	Hospital 18	R	R	
+10702_7#50	ERR374698	Human invasive infection	1	202	Hospital 10	R	R	
+10702_7#53	ERR374701	Human invasive infection	2	280	Hospital 31	R	R	
+10702_7#54	ERR374702	Human invasive infection	9	203	Hospital 9	R	R	
+10702_7#55	ERR374703	Human invasive infection	1	18	Hospital 37	R	S	
+10702_7#57	ERR374705	Human invasive infection	1	1029	Hospital 39	R	S	
+10702_7#59	ERR374707	Human invasive infection	1	64	Hospital 6	R	R	
+10702_7#65	ERR374713	Human invasive infection	1	18	Hospital 10	S	R	
+10702_7#66	ERR374714	Human invasive infection	1	17	Hospital 30	R	S	
+10702_7#79	ERR375290	Human invasive infection	1	78	Hospital 1	R	R	
+10702_7#88	ERR375299	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10702_7#89	ERR375300	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10702_7#91	ERR375302	Human invasive infection	9	78	Hospital 1	R	S	Removed
+10702_7#93	ERR375304	Human invasive infection	6	80	Hospital 1	R	S	
+10702_7#94	ERR375305	Human invasive infection	2	375	Hospital 1	R	R	
+10702_8#1	ERR375308	Human invasive infection	9	203	Hospital 1	R	S	Removed
+10702_8#10	ERR375317	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#11	ERR375318	Human invasive infection	9	412	Hospital 1	R	R	
+10702_8#12	ERR375319	Human invasive infection	1	17	Hospital 1	R	R	
+10702_8#13	ERR375320	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10702_8#14	ERR375321	Human invasive infection	1	233	Hospital 1	R	R	
+10702_8#15	ERR375322	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#16	ERR375323	Human invasive infection	5	32	Hospital 1	S	S	
+10702_8#19	ERR375326	Human invasive infection	1	17	Hospital 1	R	R	Removed
+10702_8#20	ERR375327	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10702_8#21	ERR375328	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#22	ERR375329	Human invasive infection	9	412	Hospital 1	R	R	
+10702_8#23	ERR375330	Human invasive infection	9	412	Hospital 1	R	R	
+10702_8#25	ERR375332	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#26	ERR375333	Human invasive infection	1	18	Hospital 1	R	S	
+10702_8#27	ERR375334	Human invasive infection	9	412	Hospital 1	R	R	
+10702_8#28	ERR375335	Human invasive infection	9	412	Hospital 1	R	S	
+10702_8#30	ERR375337	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#32	ERR375339	Human invasive infection	4	1449	Hospital 1	R	S	
+10702_8#33	ERR375340	Human invasive infection	9	203	Hospital 1	R	S	Removed
+10702_8#34	ERR375341	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#36	ERR375343	Human invasive infection	1	64	Hospital 1	R	S	
+10702_8#38	ERR375345	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#39	ERR375346	Human invasive infection	2	117	Hospital 34	R	R	
+10702_8#4	ERR375311	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#40	ERR375347	Human invasive infection	1	18	Hospital 1	R	S	
+10702_8#41	ERR375348	Human invasive infection	9	412	Hospital 1	R	R	
+10702_8#42	ERR375349	Human invasive infection	1	1482	Hospital 1	R	R	
+10702_8#43	ERR375350	Human invasive infection	1	233	Hospital 1	R	R	
+10702_8#44	ERR375351	Human invasive infection	1	18	Hospital 1	R	R	Removed
+10702_8#46	ERR375353	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#47	ERR375354	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#48	ERR375355	Human invasive infection	2	780	Hospital 1	R	R	
+10702_8#49	ERR375356	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#5	ERR375312	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#50	ERR375357	Human invasive infection	1	64	Hospital 1	S	S	Removed
+10702_8#51	ERR375358	Human invasive infection	2	280	Hospital 34	R	R	
+10702_8#53	ERR375360	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#54	ERR375361	Human invasive infection	9	192	Hospital 1	R	S	
+10702_8#56	ERR375363	Human invasive infection	1	17	Hospital 1	R	S	
+10702_8#57	ERR375364	Human invasive infection	6	80	Hospital 34	R	R	
+10702_8#58	ERR375365	Human invasive infection	9	78	Hospital 34	R	S	
+10702_8#59	ERR375366	Human invasive infection	9	203	Hospital 1	R	R	
+10702_8#6	ERR375313	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#60	ERR375367	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#63	ERR375370	Human invasive infection	9	412	Hospital 1	R	R	Removed
+10702_8#64	ERR375371	Human invasive infection	9	78	Hospital 1	R	S	
+10702_8#66	ERR375373	Human invasive infection	2	551	Hospital 1	R	R	
+10702_8#68	ERR375375	Human invasive infection	1	202	Hospital 1	R	R	Removed
+10702_8#69	ERR375376	Human invasive infection	5	165	Hospital 1	S	S	
+10702_8#7	ERR375314	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#70	ERR375377	Human invasive infection	9	412	Hospital 1	R	S	
+10702_8#72	ERR375379	Human invasive infection	1	18	Hospital 1	R	R	Removed
+10702_8#73	ERR375380	Human invasive infection	2	80	Hospital 1	R	R	
+10702_8#74	ERR375381	Human invasive infection	9	412	Hospital 1	R	S	
+10702_8#75	ERR375382	Human invasive infection	1	18	Hospital 1	R	S	
+10702_8#78	ERR375385	Human invasive infection	2	80	Hospital 1	R	S	
+10702_8#79	ERR375386	Human invasive infection	9	203	Hospital 1	R	S	Removed
+10702_8#8	ERR375315	Human invasive infection	9	192	Hospital 1	R	S	Removed
+10702_8#82	ERR375389	Human invasive infection	9	203	Hospital 1	R	S	
+10702_8#83	ERR375390	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#84	ERR375391	Human invasive infection	9	412	Hospital 1	R	S	Removed
+10702_8#85	ERR375392	Human invasive infection	9	192	Hospital 34	R	R	
+10702_8#86	ERR375393	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#87	ERR375394	Human invasive infection	9	1483	Hospital 1	R	R	
+10702_8#88	ERR375395	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#89	ERR375396	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10702_8#9	ERR375316	Human invasive infection	9	78	Hospital 1	R	R	
+10702_8#90	ERR375397	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#91	ERR375398	Human invasive infection	2	117	Hospital 1	R	R	
+10702_8#92	ERR375399	Human invasive infection	9	412	Hospital 1	R	R	Removed
+10702_8#93	ERR375400	Human invasive infection	6	80	Hospital 1	R	R	
+10702_8#94	ERR375401	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10702_8#95	ERR375402	Human invasive infection	1	18	Hospital 1	R	R	
+10702_8#96	ERR375403	Human invasive infection	1	1043	Hospital 1	R	R	Removed
+10733_1#10	ERR374726	Human invasive infection	4	264	Hospital 9	R	S	
+10733_1#11	ERR374727	Human invasive infection	9	203	Hospital 8	R	R	
+10733_1#12	ERR374728	Human invasive infection	1	16	Hospital 4	R	S	
+10733_1#13	ERR374729	Human invasive infection	1	18	Hospital 24	R	R	
+10733_1#15	ERR374731	Human invasive infection	9	203	Hospital 9	R	R	
+10733_1#16	ERR374732	Human invasive infection	1	1042	Hospital 36	R	R	
+10733_1#17	ERR374733	Human invasive infection	1	64	Hospital 16	S	R	
+10733_1#18	ERR374734	Human invasive infection	5	1037	Hospital 9	S	S	
+10733_1#19	ERR374735	Human invasive infection	9	203	Hospital 10	R	R	
+10733_1#2	ERR374718	Human invasive infection	9	412	Hospital 26	R	R	
+10733_1#21	ERR374737	Human invasive infection	1	202	Hospital 31	R	R	
+10733_1#22	ERR374738	Human invasive infection	9	203	Hospital 8	R	R	
+10733_1#23	ERR374739	Human invasive infection	1	431	Hospital 28	R	R	
+10733_1#25	ERR374741	Human invasive infection	1	17	Hospital 14	R	S	
+10733_1#26	ERR374742	Human invasive infection	1	17	Hospital 29	R	S	
+10733_1#27	ERR374743	Human invasive infection	9	412	Hospital 19	R	S	
+10733_1#28	ERR374744	Human invasive infection	1	18	Hospital 13	R	S	
+10733_1#29	ERR374745	Human invasive infection	1	893	Hospital 8	R	S	
+10733_1#3	ERR374719	Human invasive infection	9	203	Hospital 37	R	S	
+10733_1#30	ERR374746	Human invasive infection	9	203	Hospital 27	R	R	
+10733_1#33	ERR374749	Human invasive infection	1	18	Hospital 1	R	S	
+10733_1#34	ERR374750	Human invasive infection	1	64	Hospital 7	R	S	
+10733_1#35	ERR374751	Human invasive infection	1	132	Hospital 13	R	R	
+10733_1#36	ERR374752	Human invasive infection	9	192	Hospital 9	R	S	
+10733_1#37	ERR374753	Human invasive infection	1	17	Hospital 14	R	S	
+10733_1#38	ERR374754	Human invasive infection	1	665	Hospital 29	R	S	
+10733_1#39	ERR374755	Human invasive infection	1	18	Hospital 14	R	S	
+10733_1#4	ERR374720	Human invasive infection	3	1031	Hospital 3	S	S	
+10733_1#43	ERR374759	Human invasive infection	1	64	Hospital 28	R	S	
+10733_1#44	ERR374760	Human invasive infection	9	78	Hospital 6	R	R	
+10733_1#45	ERR374761	Human invasive infection	9	203	Hospital 29	R	S	
+10733_1#46	ERR374762	Human invasive infection	1	17	Hospital 29	R	R	
+10733_1#47	ERR374763	Human invasive infection	1	64	Hospital 37	R	S	
+10733_1#49	ERR374765	Human invasive infection	1	202	Hospital 8	R	R	
+10733_1#5	ERR374721	Human invasive infection	1	18	Hospital 1	R	R	
+10733_1#50	ERR374766	Human invasive infection	3	696	Hospital 23	S	S	
+10733_1#51	ERR374767	Human invasive infection	1	64	Hospital 30	R	R	
+10733_1#53	ERR374769	Human invasive infection	1	18	Hospital 10	R	S	
+10733_1#54	ERR374770	Human invasive infection	2	17	Hospital 15	R	R	
+10733_1#55	ERR374771	Human invasive infection	1	17	Hospital 29	R	S	
+10733_1#56	ERR374772	Human invasive infection	1	431	Hospital 28	R	R	
+10733_1#58	ERR374774	Human invasive infection	9	78	Hospital 12	R	R	
+10733_1#6	ERR374722	Human invasive infection	1	16	Hospital 24	R	R	
+10733_1#60	ERR374776	Human invasive infection	1	17	Hospital 24	R	R	
+10733_1#61	ERR374777	Human invasive infection	1	17	Hospital 28	R	S	
+10733_1#62	ERR374778	Human invasive infection	1	18	Hospital 10	S	S	
+10733_1#63	ERR374779	Human invasive infection	9	412	Hospital 19	R	S	
+10733_1#64	ERR374780	Human invasive infection	1	17	Hospital 28	R	S	
+10733_1#66	ERR374782	Human invasive infection	1	18	Hospital 31	R	S	
+10733_1#67	ERR374783	Human invasive infection	1	18	Hospital 6	R	S	
+10733_1#68	ERR374784	Human invasive infection	1	202	Hospital 37	R	R	
+10733_1#69	ERR374785	Human invasive infection	7	1036	Hospital 7	S	S	
+10733_1#7	ERR374723	Human invasive infection	9	192	Hospital 13	R	S	
+10733_1#70	ERR374786	Human invasive infection	1	431	Hospital 28	R	R	Removed
+10733_1#71	ERR374787	Human invasive infection	9	412	Hospital 8	R	S	
+10733_1#73	ERR374789	Human invasive infection	9	192	Hospital 27	R	R	
+10733_1#75	ERR374791	Human invasive infection	1	17	Hospital 12	R	S	
+10733_1#76	ERR374792	Human invasive infection	1	18	Hospital 8	R	S	
+10733_1#77	ERR374793	Human invasive infection	9	203	Hospital 28	R	R	
+10733_1#78	ERR374794	Human invasive infection	9	78	Hospital 6	R	R	Removed
+10733_1#8	ERR374724	Human invasive infection	1	17	Hospital 15	R	S	
+10733_1#80	ERR374796	Human invasive infection	1	17	Hospital 9	R	S	
+10733_1#81	ERR374797	Human invasive infection	9	192	Hospital 8	R	R	
+10733_1#82	ERR374798	Human invasive infection	1	17	Hospital 12	R	R	
+10733_1#84	ERR374800	Human invasive infection	1	18	Hospital 1	R	S	Removed
+10733_1#87	ERR374803	Human invasive infection	1	16	Hospital 1	R	S	
+10733_1#88	ERR374804	Human invasive infection	1	18	Hospital 19	R	S	
+10733_1#89	ERR374805	Human invasive infection	9	412	Hospital 19	R	R	
+10733_1#9	ERR374725	Human invasive infection	9	412	Hospital 28	R	S	
+10733_1#90	ERR374806	Human invasive infection	2	1032	Hospital 7	R	S	
+10733_1#91	ERR374807	Human invasive infection	1	665	Hospital 38	R	R	
+10733_1#93	ERR374809	Human invasive infection	1	18	Hospital 24	R	S	
+10733_1#94	ERR374810	Human invasive infection	1	132	Hospital 7	R	R	
+10733_1#95	ERR374811	Human invasive infection	1	18	Hospital 28	R	S	
+10733_1#96	ERR374812	Human invasive infection	1	17	Hospital 1	R	S	
+10733_2#1	ERR374813	Human invasive infection	9	203	Hospital 6	R	S	
+10733_2#11	ERR374823	Human invasive infection	1	1477	Hospital 28	R	R	
+10733_2#12	ERR374824	Human invasive infection	9	78	Hospital 14	R	S	
+10733_2#14	ERR374826	Human invasive infection	1	18	Hospital 4	R	S	
+10733_2#15	ERR374827	Human invasive infection	1	18	Hospital 10	R	R	
+10733_2#16	ERR374828	Human invasive infection	9	203	Hospital 31	R	S	
+10733_2#17	ERR374829	Human invasive infection	1	18	Hospital 28	R	S	
+10733_2#18	ERR374830	Human invasive infection	1	17	Hospital 1	R	S	Removed
+10733_2#19	ERR374831	Human invasive infection	9	203	Hospital 10	R	S	
+10733_2#2	ERR374814	Human invasive infection	1	132	Hospital 14	R	R	
+10733_2#20	ERR374832	Human invasive infection	1	132	Hospital 14	R	R	
+10733_2#21	ERR374833	Human invasive infection	1	18	Hospital 19	R	R	
+10733_2#22	ERR374834	Human invasive infection	1	132	Hospital 14	R	R	Removed
+10733_2#23	ERR374835	Human invasive infection	9	203	Hospital 17	R	R	
+10733_2#24	ERR374836	Human invasive infection	9	412	Hospital 40	R	S	
+10733_2#25	ERR374837	Human invasive infection	9	78	Hospital 14	R	R	
+10733_2#26	ERR374838	Human invasive infection	1	17	Hospital 12	R	S	
+10733_2#28	ERR374840	Human invasive infection	1	17	Hospital 29	R	R	
+10733_2#3	ERR374815	Human invasive infection	1	125	Hospital 38	R	R	
+10733_2#30	ERR374842	Human invasive infection	1	18	Hospital 29	R	S	
+10733_2#31	ERR374843	Human invasive infection	1	18	Hospital 12	R	S	
+10733_2#32	ERR374844	Human invasive infection	1	16	Hospital 29	R	R	
+10733_2#33	ERR374845	Human invasive infection	1	132	Hospital 8	R	R	
+10733_2#35	ERR374847	Human invasive infection	1	132	Hospital 8	R	S	
+10733_2#36	ERR374848	Human invasive infection	1	18	Hospital 8	R	R	
+10733_2#37	ERR374849	Human invasive infection	1	78	Hospital 24	R	R	
+10733_2#38	ERR374850	Human invasive infection	1	17	Hospital 39	R	S	
+10733_2#39	ERR374851	Human invasive infection	1	202	Hospital 37	R	S	
+10733_2#4	ERR374816	Human invasive infection	1	64	Hospital 6	R	R	
+10733_2#42	ERR374854	Human invasive infection	1	64	Hospital 13	R	S	
+10733_2#43	ERR374855	Human invasive infection	1	18	Hospital 8	R	S	
+10733_2#44	ERR374856	Human invasive infection	1	18	Hospital 8	R	S	
+10733_2#45	ERR374857	Human invasive infection	1	202	Hospital 1	R	R	
+10733_2#47	ERR374859	Human invasive infection	1	18	Hospital 14	R	S	
+10733_2#48	ERR374860	Human invasive infection	1	17	Hospital 29	R	S	
+10733_2#49	ERR374861	Human invasive infection	1	17	Hospital 31	R	R	
+10733_2#51	ERR374863	Human invasive infection	1	132	Hospital 31	R	S	
+10733_2#52	ERR374864	Human invasive infection	1	18	Hospital 24	R	S	
+10733_2#53	ERR374865	Human invasive infection	9	78	Hospital 33	R	S	
+10733_2#54	ERR374866	Human invasive infection	9	203	Hospital 28	R	R	
+10733_2#55	ERR374867	Human invasive infection	1	132	Hospital 8	R	R	
+10733_2#56	ERR374868	Human invasive infection	1	18	Hospital 7	R	R	
+10733_2#58	ERR374870	Human invasive infection	1	17	Hospital 29	R	R	Removed
+10733_2#59	ERR374871	Human invasive infection	1	18	Hospital 29	R	S	
+10733_2#60	ERR374872	Human invasive infection	3	1044	Hospital 1	S	R	
+10733_2#61	ERR374873	Human invasive infection	1	17	Hospital 37	R	S	
+10733_2#63	ERR374875	Human invasive infection	1	17	Hospital 9	R	R	
+10733_2#64	ERR374876	Human invasive infection	1	202	Hospital 31	R	R	Removed
+10733_2#65	ERR374877	Human invasive infection	2	117	Hospital 9	R	R	
+10733_2#67	ERR374879	Human invasive infection	1	202	Hospital 9	R	R	
+10733_2#68	ERR374880	Human invasive infection	1	18	Hospital 28	R	R	
+10733_2#69	ERR374881	Human invasive infection	1	18	Hospital 30	R	S	
+10733_2#70	ERR374882	Human invasive infection	1	18	Hospital 9	R	R	
+10733_2#71	ERR374883	Human invasive infection	1	18	Hospital 3	R	S	
+10733_2#73	ERR374885	Human invasive infection	1	132	Hospital 16	R	S	
+10733_2#74	ERR374886	Human invasive infection	1	18	Hospital 24	R	S	
+10733_2#75	ERR374887	Human invasive infection	1	17	Hospital 24	R	R	Removed
+10733_2#77	ERR374889	Human invasive infection	9	203	Hospital 39	R	S	
+10733_2#78	ERR374890	Human invasive infection	1	17	Hospital 14	R	R	
+10733_2#8	ERR374820	Human invasive infection	9	192	Hospital 1	R	R	
+10733_2#81	ERR374893	Human invasive infection	1	431	Hospital 29	R	R	
+10733_2#82	ERR374894	Human invasive infection	1	18	Hospital 15	R	R	
+10733_2#83	ERR374895	Human invasive infection	1	18	Hospital 22	R	R	
+10733_2#85	ERR374897	Human invasive infection	1	16	Hospital 8	R	S	
+10733_2#86	ERR374898	Human invasive infection	1	18	Hospital 10	R	R	
+10733_2#87	ERR374899	Human invasive infection	6	17	Hospital 27	R	R	
+10733_2#89	ERR374901	Human invasive infection	1	18	Hospital 1	R	S	
+10733_2#9	ERR374821	Human invasive infection	9	192	Hospital 28	R	R	
+10733_2#90	ERR374902	Human invasive infection	5	533	Hospital 36	S	S	
+10733_2#93	ERR374905	Human invasive infection	1	665	Hospital 27	R	S	
+10733_2#95	ERR374907	Human invasive infection	1	18	Hospital 36	R	S	
+10733_2#96	ERR374908	Human invasive infection	1	202	Hospital 8	R	R	
+10733_3#1	ERR374909	Human invasive infection	9	78	Hospital 14	R	R	
+10733_3#10	ERR374918	Human invasive infection	1	80	Hospital 23	R	S	
+10733_3#11	ERR374919	Human invasive infection	1	17	Hospital 14	R	S	
+10733_3#12	ERR374920	Human invasive infection	2	375	Hospital 9	R	R	
+10733_3#13	ERR374921	Human invasive infection	9	192	Hospital 13	R	R	
+10733_3#14	ERR374922	Human invasive infection	2	546	Hospital 35	R	R	
+10733_3#15	ERR374923	Human invasive infection	1	18	Hospital 24	R	S	
+10733_3#16	ERR374924	Human invasive infection	1	18	Hospital 8	R	S	
+10733_3#17	ERR374925	Human invasive infection	9	203	Hospital 27	R	S	
+10733_3#18	ERR374926	Human invasive infection	1	80	Hospital 23	R	R	
+10733_3#19	ERR374927	Human invasive infection	9	192	Hospital 4	R	R	
+10733_3#2	ERR374910	Human invasive infection	9	78	Hospital 6	R	R	Removed
+10733_3#20	ERR374928	Human invasive infection	1	17	Hospital 21	R	S	
+10733_3#21	ERR374929	Human invasive infection	1	18	Hospital 28	R	S	
+10733_3#22	ERR374930	Human invasive infection	1	18	Hospital 8	R	S	
+10733_3#23	ERR374931	Human invasive infection	1	17	Hospital 8	R	S	
+10733_3#25	ERR374933	Human invasive infection	9	78	Hospital 12	R	R	
+10733_3#28	ERR374936	Human invasive infection	1	17	Hospital 29	R	S	
+10733_3#29	ERR374937	Human invasive infection	1	18	Hospital 36	R	R	
+10733_3#3	ERR374911	Human invasive infection	1	17	Hospital 29	R	R	
+10733_3#30	ERR374938	Human invasive infection	1	18	Hospital 4	R	S	
+10733_3#31	ERR374939	Human invasive infection	1	18	Hospital 24	R	S	
+10733_3#32	ERR374940	Human invasive infection	9	1039	Hospital 29	R	R	
+10733_3#33	ERR374941	Human invasive infection	1	17	Hospital 42	R	S	
+10733_3#34	ERR374942	Human invasive infection	1	18	Hospital 19	R	S	
+10733_3#35	ERR374943	Human invasive infection	1	18	Hospital 13	R	S	
+10733_3#36	ERR374944	Human invasive infection	1	17	Hospital 18	R	S	
+10733_3#37	ERR374945	Human invasive infection	1	18	Hospital 24	R	S	
+10733_3#39	ERR374947	Human invasive infection	1	132	Hospital 1	R	R	
+10733_3#4	ERR374912	Human invasive infection	1	18	Hospital 23	R	S	
+10733_3#41	ERR374949	Human invasive infection	1	18	Hospital 8	R	R	
+10733_3#43	ERR374951	Human invasive infection	5	32	Hospital 28	S	S	
+10733_3#44	ERR374952	Human invasive infection	9	203	Hospital 32	R	S	
+10733_3#45	ERR374953	Human invasive infection	1	17	Hospital 36	R	R	
+10733_3#46	ERR374954	Human invasive infection	1	202	Hospital 28	R	R	
+10733_3#48	ERR374956	Human invasive infection	4	253	Hospital 13	S	S	
+10733_3#49	ERR374957	Human invasive infection	1	17	Hospital 28	R	S	
+10733_3#5	ERR374913	Human invasive infection	1	18	Hospital 9	R	S	
+10733_3#50	ERR374958	Human invasive infection	1	64	Hospital 7	R	R	
+10733_3#51	ERR374959	Human invasive infection	9	203	Hospital 10	R	S	
+10733_3#54	ERR374962	Human invasive infection	1	17	Hospital 29	R	S	
+10733_3#55	ERR374963	Human invasive infection	9	78	Hospital 20	R	S	
+10733_3#56	ERR374964	Human invasive infection	1	117	Hospital 7	R	R	
+10733_3#57	ERR374965	Human invasive infection	1	64	Hospital 1	R	S	
+10733_3#58	ERR374966	Human invasive infection	1	80	Hospital 8	R	S	
+10733_3#59	ERR374967	Human invasive infection	9	192	Hospital 8	R	S	
+10733_3#6	ERR374914	Human invasive infection	9	203	Hospital 3	R	R	
+10733_3#60	ERR374968	Human invasive infection	9	78	Hospital 3	R	R	
+10733_3#61	ERR374969	Human invasive infection	1	64	Hospital 7	R	S	
+10733_3#62	ERR374970	Human invasive infection	1	18	Hospital 32	R	S	
+10733_3#63	ERR374971	Human invasive infection	1	18	Hospital 7	R	R	
+10733_3#64	ERR374972	Human invasive infection	9	192	Hospital 32	R	S	
+10733_3#65	ERR374973	Human invasive infection	9	203	Hospital 8	R	R	Removed
+10733_3#66	ERR374974	Human invasive infection	1	18	Hospital 11	R	S	
+10733_3#68	ERR374976	Human invasive infection	1	64	Hospital 29	R	S	
+10733_3#69	ERR374977	Human invasive infection	1	17	Hospital 31	R	S	
+10733_3#7	ERR374915	Human invasive infection	1	18	Hospital 36	R	R	
+10733_3#70	ERR374978	Human invasive infection	2	280	Hospital 42	R	R	
+10733_3#71	ERR374979	Human invasive infection	9	192	Hospital 20	R	R	
+10733_3#74	ERR374982	Human invasive infection	9	192	Hospital 12	R	R	
+10733_3#78	ERR374986	Human invasive infection	9	412	Hospital 4	R	S	
+10733_3#79	ERR374987	Human invasive infection	1	132	Hospital 14	R	R	
+10733_3#8	ERR374916	Human invasive infection	9	203	Hospital 8	R	R	
+10733_3#80	ERR374988	Human invasive infection	9	203	Hospital 11	R	R	
+10733_3#81	ERR374989	Human invasive infection	1	64	Hospital 19	R	R	
+10733_3#82	ERR374990	Human invasive infection	9	203	Hospital 27	R	R	
+10733_3#83	ERR374991	Human invasive infection	9	78	Hospital 9	R	S	
+10733_3#84	ERR374992	Human invasive infection	1	18	Hospital 7	R	S	
+10733_3#85	ERR374993	Human invasive infection	1	18	Hospital 10	R	R	
+10733_3#86	ERR374994	Human invasive infection	9	78	Hospital 14	R	S	
+10733_3#87	ERR374995	Human invasive infection	9	192	Hospital 29	R	S	
+10733_3#9	ERR374917	Human invasive infection	1	80	Hospital 23	R	S	
+10733_3#90	ERR374998	Human invasive infection	1	431	Hospital 28	R	R	
+10733_3#93	ERR375001	Human invasive infection	9	412	Hospital 28	R	R	
+10733_3#94	ERR375002	Human invasive infection	1	64	Hospital 31	R	S	
+10733_3#95	ERR375003	Human invasive infection	9	203	Hospital 40	R	R	
+10733_4#1	ERR375005	Human invasive infection	9	203	Hospital 8	R	R	
+10733_4#10	ERR375014	Human invasive infection	9	78	Hospital 14	R	R	
+10733_4#11	ERR375015	Human invasive infection	1	17	Hospital 12	R	R	
+10733_4#12	ERR375016	Human invasive infection	1	202	Hospital 1	R	R	
+10733_4#13	ERR375017	Human invasive infection	1	17	Hospital 1	R	R	
+10733_4#14	ERR375018	Human invasive infection	1	1029	Hospital 28	R	R	
+10733_4#15	ERR375019	Human invasive infection	1	1043	Hospital 9	R	R	
+10733_4#17	ERR375021	Human invasive infection	1	17	Hospital 13	R	S	
+10733_4#18	ERR375022	Human invasive infection	1	18	Hospital 29	R	S	
+10733_4#19	ERR375023	Human invasive infection	1	18	Hospital 19	R	R	
+10733_4#2	ERR375006	Human invasive infection	1	17	Hospital 12	R	S	
+10733_4#20	ERR375024	Human invasive infection	9	412	Hospital 8	R	R	
+10733_4#22	ERR375026	Human invasive infection	1	280	Hospital 10	R	S	
+10733_4#23	ERR375027	Human invasive infection	9	203	Hospital 28	R	R	
+10733_4#24	ERR375028	Human invasive infection	1	18	Hospital 9	R	R	
+10733_4#25	ERR375029	Human invasive infection	1	64	Hospital 36	R	S	
+10733_4#26	ERR375030	Human invasive infection	1	17	Hospital 14	R	S	
+10733_4#27	ERR375031	Human invasive infection	1	17	Hospital 12	R	S	
+10733_4#28	ERR375032	Human invasive infection	1	18	Hospital 12	R	S	Removed
+10733_4#29	ERR375033	Human invasive infection	1	132	Hospital 8	R	R	
+10733_4#3	ERR375007	Human invasive infection	9	203	Hospital 28	R	S	Removed
+10733_4#31	ERR375035	Human invasive infection	1	117	Hospital 37	R	R	
+10733_4#33	ERR375037	Human invasive infection	1	80	Hospital 32	R	S	
+10733_4#35	ERR375039	Human invasive infection	2	546	Hospital 35	R	R	
+10733_4#36	ERR375040	Human invasive infection	9	203	Hospital 7	R	R	
+10733_4#37	ERR375041	Human invasive infection	1	18	Hospital 7	R	S	
+10733_4#38	ERR375042	Human invasive infection	9	192	Hospital 17	R	S	
+10733_4#39	ERR375043	Human invasive infection	1	16	Hospital 12	R	S	
+10733_4#4	ERR375008	Human invasive infection	1	17	Hospital 12	R	S	
+10733_4#40	ERR375044	Human invasive infection	1	1477	Hospital 28	R	R	Removed
+10733_4#42	ERR375046	Human invasive infection	9	78	Hospital 14	R	R	
+10733_4#43	ERR375047	Human invasive infection	3	94	Hospital 14	S	S	
+10733_4#44	ERR375048	Human invasive infection	9	203	Hospital 28	R	R	Removed
+10733_4#45	ERR375049	Human invasive infection	1	1038	Hospital 3	R	S	
+10733_4#46	ERR375050	Human invasive infection	1	202	Hospital 10	R	R	
+10733_4#47	ERR375051	Human invasive infection	9	192	Hospital 27	R	S	
+10733_4#48	ERR375052	Human invasive infection	1	18	Hospital 8	R	R	
+10733_4#49	ERR375053	Human invasive infection	1	17	Hospital 14	R	S	
+10733_4#5	ERR375009	Human invasive infection	1	18	Hospital 9	R	S	Removed
+10733_4#51	ERR375055	Human invasive infection	1	16	Hospital 19	R	S	
+10733_4#52	ERR375056	Human invasive infection	9	78	Hospital 14	R	R	
+10733_4#53	ERR375057	Human invasive infection	1	18	Hospital 7	R	S	
+10733_4#56	ERR375060	Human invasive infection	9	203	Hospital 4	R	S	
+10733_4#58	ERR375062	Human invasive infection	1	18	Hospital 1	R	R	
+10733_4#59	ERR375063	Human invasive infection	1	18	Hospital 10	R	R	
+10733_4#6	ERR375010	Human invasive infection	1	18	Hospital 9	R	S	
+10733_4#60	ERR375064	Human invasive infection	1	431	Hospital 28	R	R	
+10733_4#62	ERR375066	Human invasive infection	9	78	Hospital 14	R	R	
+10733_4#63	ERR375067	Human invasive infection	1	18	Hospital 4	R	S	
+10733_4#65	ERR375069	Human invasive infection	5	413	Hospital 6	S	S	
+10733_4#66	ERR375070	Human invasive infection	9	78	Hospital 12	R	R	
+10733_4#67	ERR375071	Human invasive infection	9	412	Hospital 22	R	R	
+10733_4#68	ERR375072	Human invasive infection	9	203	Hospital 28	R	R	Removed
+10733_4#69	ERR375073	Human invasive infection	1	18	Hospital 23	R	R	
+10733_4#7	ERR375011	Human invasive infection	1	431	Hospital 1	R	R	
+10733_4#71	ERR375075	Human invasive infection	1	18	Hospital 8	R	S	
+10733_4#72	ERR375076	Human invasive infection	1	17	Hospital 4	R	R	
+10733_4#73	ERR375077	Human invasive infection	9	203	Hospital 39	R	S	
+10733_4#74	ERR375078	Human invasive infection	1	18	Hospital 4	R	S	
+10733_4#75	ERR375079	Human invasive infection	1	17	Hospital 12	R	R	
+10733_4#77	ERR375081	Human invasive infection	9	78	Hospital 12	R	R	Removed
+10733_4#78	ERR375082	Human invasive infection	1	17	Hospital 9	R	R	
+10733_4#79	ERR375083	Human invasive infection	9	412	Hospital 19	R	S	
+10733_4#8	ERR375012	Human invasive infection	1	64	Hospital 13	R	S	
+10733_4#81	ERR375085	Human invasive infection	9	412	Hospital 28	R	S	
+10733_4#82	ERR375086	Human invasive infection	1	17	Hospital 1	R	R	
+10733_4#83	ERR375087	Human invasive infection	1	18	Hospital 22	R	S	
+10733_4#84	ERR375088	Human invasive infection	9	203	Hospital 28	R	R	Removed
+10733_4#85	ERR375089	Human invasive infection	2	323	Hospital 40	R	R	
+10733_4#86	ERR375090	Human invasive infection	9	203	Hospital 17	R	S	
+10733_4#87	ERR375091	Human invasive infection	1	18	Hospital 22	R	S	
+10733_4#88	ERR375092	Human invasive infection	9	203	Hospital 41	R	R	
+10733_4#89	ERR375093	Human invasive infection	9	203	Hospital 8	R	S	
+10733_4#9	ERR375013	Human invasive infection	1	80	Hospital 20	R	S	
+10733_4#90	ERR375094	Human invasive infection	1	18	Hospital 12	R	S	
+10733_4#91	ERR375095	Human invasive infection	1	64	Hospital 1	R	R	Removed
+10733_4#93	ERR375097	Human invasive infection	9	192	Hospital 4	R	R	
+10733_4#95	ERR375099	Human invasive infection	1	1030	Hospital 19	R	R	
+10733_4#96	ERR375100	Human invasive infection	1	132	Hospital 8	R	R	Removed
+10733_5#1	ERR375101	Human invasive infection	1	431	Hospital 4	R	R	
+10733_5#11	ERR375111	Human invasive infection	1	18	Hospital 9	R	S	
+10733_5#12	ERR375112	Human invasive infection	1	132	Hospital 1	R	R	
+10733_5#14	ERR375114	Human invasive infection	1	18	Hospital 1	R	R	
+10733_5#15	ERR375115	Human invasive infection	3	1041	Hospital 28	S	S	
+10733_5#16	ERR375116	Human invasive infection	1	18	Hospital 24	R	S	Removed
+10733_5#18	ERR375118	Human invasive infection	1	64	Hospital 7	R	R	
+10733_5#20	ERR375120	Human invasive infection	1	64	Hospital 7	R	S	
+10733_5#21	ERR375121	Human invasive infection	1	18	Hospital 39	R	S	
+10733_5#22	ERR375122	Human invasive infection	1	17	Hospital 14	R	S	
+10733_5#24	ERR375124	Human invasive infection	1	17	Hospital 12	R	S	
+10733_5#28	ERR375128	Human invasive infection	1	17	Hospital 1	R	S	
+10733_5#29	ERR375129	Human invasive infection	9	192	Hospital 8	R	R	
+10733_5#30	ERR375130	Human invasive infection	1	18	Hospital 9	R	S	
+10733_5#31	ERR375131	Human invasive infection	1	64	Hospital 37	R	R	
+10733_5#33	ERR375133	Human invasive infection	9	192	Hospital 7	R	R	
+10733_5#34	ERR375134	Human invasive infection	1	64	Hospital 7	R	S	
+10733_5#35	ERR375135	Human invasive infection	1	17	Hospital 12	R	S	
+10733_5#36	ERR375136	Human invasive infection	2	280	Hospital 17	R	R	
+10733_5#37	ERR375137	Human invasive infection	9	192	Hospital 42	R	S	
+10733_5#38	ERR375138	Human invasive infection	1	117	Hospital 24	R	S	
+10733_5#40	ERR375140	Human invasive infection	1	64	Hospital 37	R	S	
+10733_5#42	ERR375142	Human invasive infection	1	1477	Hospital 28	R	R	
+10733_5#43	ERR375143	Human invasive infection	1	17	Hospital 12	R	R	
+10733_5#44	ERR375144	Human invasive infection	1	440	Hospital 36	R	R	
+10733_5#45	ERR375145	Human invasive infection	2	280	Hospital 42	R	R	
+10733_5#46	ERR375146	Human invasive infection	1	18	Hospital 24	R	R	
+10733_5#48	ERR375148	Human invasive infection	5	170	Hospital 14	I	S	
+10733_5#49	ERR375149	Human invasive infection	1	17	Hospital 12	R	R	Removed
+10733_5#5	ERR375105	Human invasive infection	1	18	Hospital 1	R	R	
+10733_5#50	ERR375150	Human invasive infection	4	29	Hospital 19	S	S	
+10733_5#52	ERR375152	Human invasive infection	1	17	Hospital 28	R	R	
+10733_5#53	ERR375153	Human invasive infection	1	18	Hospital 8	R	S	
+10733_5#54	ERR375154	Human invasive infection	2	17	Hospital 12	R	S	
+10733_5#56	ERR375156	Human invasive infection	1	64	Hospital 23	R	R	
+10733_5#57	ERR375157	Human invasive infection	1	80	Hospital 23	R	R	
+10733_5#58	ERR375158	Human invasive infection	2	280	Hospital 31	R	R	
+10733_5#6	ERR375106	Human invasive infection	1	17	Hospital 28	R	R	
+10733_5#60	ERR375160	Human invasive infection	9	192	Hospital 7	R	R	
+10733_5#61	ERR375161	Human invasive infection	9	412	Hospital 22	R	R	
+10733_5#62	ERR375162	Human invasive infection	1	17	Hospital 18	R	S	
+10733_5#63	ERR375163	Human invasive infection	1	17	Hospital 5	R	S	
+10733_5#64	ERR375164	Human invasive infection	2	17	Hospital 12	R	R	
+10733_5#65	ERR375165	Human invasive infection	1	17	Hospital 8	R	S	
+10733_5#67	ERR375167	Human invasive infection	1	17	Hospital 9	R	R	Removed
+10733_5#68	ERR375168	Human invasive infection	1	17	Hospital 14	R	S	
+10733_5#69	ERR375169	Human invasive infection	1	80	Hospital 32	R	R	
+10733_5#7	ERR375107	Human invasive infection	9	203	Hospital 8	R	R	
+10733_5#70	ERR375170	Human invasive infection	1	17	Hospital 6	R	S	
+10733_5#72	ERR375172	Human invasive infection	1	1477	Hospital 28	R	R	Removed
+10733_5#73	ERR375173	Human invasive infection	1	16	Hospital 40	R	S	
+10733_5#74	ERR375174	Human invasive infection	9	203	Hospital 6	R	S	
+10733_5#76	ERR375176	Human invasive infection	7	108	Hospital 8	S	S	
+10733_5#77	ERR375177	Human invasive infection	2	375	Hospital 25	R	R	
+10733_5#78	ERR375178	Human invasive infection	1	1040	Hospital 10	R	S	
+10733_5#79	ERR375179	Human invasive infection	9	203	Hospital 31	R	S	
+10733_5#82	ERR375182	Human invasive infection	9	192	Hospital 27	R	S	
+10733_5#83	ERR375183	Human invasive infection	1	18	Hospital 1	R	R	
+10733_5#87	ERR375187	Human invasive infection	1	186	Hospital 10	R	R	
+10733_5#88	ERR375188	Human invasive infection	1	18	Hospital 29	R	S	
+10733_5#89	ERR375189	Human invasive infection	3	1033	Hospital 29	S	S	
+10733_5#9	ERR375109	Human invasive infection	1	64	Hospital 30	R	R	
+10733_5#92	ERR375192	Human invasive infection	1	80	Hospital 17	R	R	
+10733_5#93	ERR375193	Human invasive infection	2	117	Hospital 32	R	R	
+10733_5#94	ERR375194	Human invasive infection	9	412	Hospital 28	R	S	Removed
+10733_5#95	ERR375195	Human invasive infection	1	17	Hospital 6	R	S	
+10733_6#10	ERR375206	Human invasive infection	1	18	Hospital 31	R	S	
+10733_6#11	ERR375207	Human invasive infection	1	18	Hospital 31	R	S	
+10733_6#12	ERR375208	Human invasive infection	6	80	Hospital 27	R	S	
+10733_6#13	ERR375209	Human invasive infection	2	132	Hospital 3	R	R	
+10733_6#14	ERR375210	Human invasive infection	1	17	Hospital 6	R	S	
+10733_6#17	ERR375213	Human invasive infection	1	202	Hospital 10	R	S	
+10733_6#18	ERR375214	Human invasive infection	6	80	Hospital 40	R	S	
+10733_6#19	ERR375215	Human invasive infection	2	375	Hospital 37	R	R	
+10733_6#20	ERR375216	Human invasive infection	6	80	Hospital 40	R	S	
+10733_6#21	ERR375217	Human invasive infection	1	64	Hospital 24	R	S	
+10733_6#22	ERR375218	Human invasive infection	1	132	Hospital 19	R	R	
+10733_6#23	ERR375219	Human invasive infection	1	202	Hospital 1	R	R	
+10733_6#28	ERR375224	Human invasive infection	1	18	Hospital 10	R	S	
+10733_6#30	ERR375226	Human invasive infection	1	18	Hospital 8	R	S	
+10733_6#31	ERR375227	Human invasive infection	1	202	Hospital 37	R	R	
+10733_6#33	ERR375229	Human invasive infection	1	117	Hospital 29	R	R	
+10733_6#34	ERR375230	Human invasive infection	1	18	Hospital 37	R	S	
+10733_6#35	ERR375231	Human invasive infection	9	412	Hospital 17	R	R	
+10733_6#36	ERR375232	Human invasive infection	1	17	Hospital 4	R	R	
+10733_6#39	ERR375235	Human invasive infection	1	18	Hospital 11	R	S	
+10733_6#4	ERR375200	Human invasive infection	1	18	Hospital 8	R	S	Removed
+10733_6#42	ERR375238	Human invasive infection	2	280	Hospital 37	R	S	
+10733_6#44	ERR375240	Human invasive infection	1	375	Hospital 28	R	R	
+10733_6#45	ERR375241	Human invasive infection	1	132	Hospital 37	R	R	
+10733_6#47	ERR375243	Human invasive infection	2	280	Hospital 41	R	S	
+10733_6#48	ERR375244	Human invasive infection	1	18	Hospital 13	R	R	
+10733_6#49	ERR375245	Human invasive infection	1	18	Hospital 40	R	R	
+10733_6#5	ERR375201	Human invasive infection	1	202	Hospital 37	R	R	
+10733_6#50	ERR375246	Human invasive infection	1	117	Hospital 24	R	R	
+10733_6#51	ERR375247	Human invasive infection	9	203	Hospital 36	R	S	
+10733_6#52	ERR375248	Human invasive infection	1	665	Hospital 38	R	S	
+10733_6#54	ERR375250	Human invasive infection	1	202	Hospital 31	R	S	
+10733_6#55	ERR375251	Human invasive infection	9	412	Hospital 28	R	S	
+10733_6#56	ERR375252	Human invasive infection	1	186	Hospital 1	R	S	
+10733_6#58	ERR375254	Human invasive infection	9	192	Hospital 27	R	R	
+10733_6#59	ERR375255	Human invasive infection	1	16	Hospital 29	R	R	
+10733_6#60	ERR375256	Human invasive infection	1	18	Hospital 10	R	S	
+10733_6#61	ERR375257	Human invasive infection	1	18	Hospital 24	R	S	
+10733_6#62	ERR375258	Human invasive infection	1	18	Hospital 7	R	S	
+10733_6#64	ERR375260	Human invasive infection	9	203	Hospital 10	R	R	
+10733_6#68	ERR375264	Human invasive infection	1	18	Hospital 36	R	S	
+10733_6#69	ERR375265	Human invasive infection	2	117	Hospital 9	R	R	
+10733_6#7	ERR375203	Human invasive infection	1	202	Hospital 31	R	R	Removed
+10733_6#70	ERR375266	Human invasive infection	1	202	Hospital 10	R	R	
+10733_6#72	ERR375268	Human invasive infection	1	17	Hospital 29	R	R	
+10733_6#74	ERR375270	Human invasive infection	9	412	Hospital 40	R	S	
+10733_6#76	ERR375272	Human invasive infection	1	64	Hospital 7	R	S	
+10733_6#77	ERR375273	Human invasive infection	1	17	Hospital 12	R	R	Removed
+10733_6#78	ERR375274	Human invasive infection	1	440	Hospital 38	R	S	
+10733_6#8	ERR375204	Human invasive infection	1	18	Hospital 18	R	R	
+10733_6#80	ERR375276	Human invasive infection	1	132	Hospital 31	R	S	
+10733_6#81	ERR375277	Human invasive infection	9	412	Hospital 40	R	S	Removed
+10733_6#82	ERR375278	Human invasive infection	1	1029	Hospital 10	R	S	
+10733_6#83	ERR375279	Human invasive infection	1	132	Hospital 8	R	R	
+10733_6#84	ERR375280	Human invasive infection	2	280	Hospital 6	R	R	
+10733_6#85	ERR375281	Human invasive infection	1	17	Hospital 28	R	R	
+10733_6#87	ERR375283	Human invasive infection	1	132	Hospital 4	R	R	
+10733_6#88	ERR375284	Human invasive infection	2	280	Hospital 24	R	R	
+10733_6#89	ERR375285	Human invasive infection	9	78	Hospital 14	R	R	
+10733_6#90	ERR375286	Human invasive infection	1	202	Hospital 10	R	R	
+10733_6#91	ERR375287	Human invasive infection	9	203	Hospital 22	R	S	
+10733_6#92	ERR375288	Human invasive infection	1	202	Hospital 31	R	R	
+10733_7#1	ERR375567	NCTC	3	361	NCTC	S	S	
+10733_7#10	ERR375576	NCTC	4	130	NCTC	S	S	
+10733_7#13	ERR375579	NCTC	1	18	NCTC	R	R	
+10733_7#14	ERR375580	NCTC	4	1034	NCTC	S	S	
+10733_7#17	ERR375583	NCTC	5	71	NCTC	S	S	
+10733_7#19	ERR375585	NCTC	1	18	NCTC	R	R	
+10733_7#2	ERR375568	NCTC	5	160	NCTC	S	S	
+10733_7#36	ERR375406	Human invasive infection	2	280	Hospital 1	R	R	
+10733_7#39	ERR375409	Human invasive infection	9	412	Hospital 1	R	S	
+10733_7#42	ERR375412	Human invasive infection	1	17	Hospital 1	R	S	
+10733_7#43	ERR375413	Human invasive infection	1	202	Hospital 1	R	R	
+10733_7#48	ERR375418	Human invasive infection	1	18	Hospital 1	R	R	
+10733_7#5	ERR375571	NCTC	5	160	NCTC	S	S	
+10733_7#50	ERR375420	Human invasive infection	9	192	Hospital 1	R	R	
+10733_7#51	ERR375421	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10733_7#52	ERR375422	Human invasive infection	2	375	Hospital 1	R	R	
+10733_7#53	ERR375423	Human invasive infection	1	202	Hospital 1	R	R	
+10733_7#55	ERR375425	Human invasive infection	1	132	Hospital 1	R	R	
+10733_7#56	ERR375426	Human invasive infection	2	375	Hospital 1	R	R	Removed
+10733_7#57	ERR375427	Human invasive infection	9	203	Hospital 1	R	R	
+10733_7#6	ERR375572	NCTC	5	32	NCTC	S	S	
+10733_7#60	ERR375430	Human invasive infection	1	18	Hospital 1	R	R	
+10733_7#61	ERR375431	Human invasive infection	2	80	Hospital 1	R	R	
+10733_7#62	ERR375432	Human invasive infection	1	64	Hospital 1	R	R	Removed
+10733_7#63	ERR375433	Human invasive infection	9	412	Hospital 1	R	S	Removed
+10733_7#64	ERR375434	Human invasive infection	1	17	Hospital 1	R	R	
+10733_7#66	ERR375436	Human invasive infection	1	117	Hospital 1	R	R	
+10733_7#67	ERR375437	Human invasive infection	1	202	Hospital 1	R	R	
+10733_7#69	ERR375439	Human invasive infection	1	202	Hospital 1	R	R	
+10733_7#7	ERR375573	NCTC	5	22	NCTC	S	S	
+10733_7#70	ERR375440	Human invasive infection	1	375	Hospital 1	R	R	
+10733_7#71	ERR375441	Human invasive infection	1	202	Hospital 1	R	R	Removed
+10733_7#73	ERR375443	Human invasive infection	7	1484	Hospital 1	S	S	
+10733_7#75	ERR375445	Human invasive infection	1	64	Hospital 1	R	R	
+10733_7#76	ERR375446	Human invasive infection	9	203	Hospital 1	R	R	
+10733_7#77	ERR375447	Human invasive infection	1	18	Hospital 1	R	R	Removed
+10733_7#78	ERR375448	Human invasive infection	1	17	Hospital 1	R	S	
+10733_7#8	ERR375574	NCTC	1	18	NCTC	R	R	
+10733_7#80	ERR375450	Human invasive infection	6	80	Hospital 1	R	R	
+10733_7#81	ERR375451	Human invasive infection	2	375	Hospital 1	R	R	Removed
+10733_7#82	ERR375452	Human invasive infection	1	18	Hospital 1	R	R	
+10733_7#86	ERR375456	Human invasive infection	1	132	Hospital 1	R	R	
+10733_7#87	ERR375457	Human invasive infection	1	64	Hospital 1	R	S	Removed
+10733_7#88	ERR375458	Human invasive infection	1	17	Hospital 1	R	R	
+10733_7#89	ERR375459	Human invasive infection	2	117	Hospital 2	R	S	
+10733_8#1	ERR375462	Human invasive infection	2	117	Hospital 1	R	R	
+10733_8#10	ERR375471	Human invasive infection	1	64	Hospital 1	R	R	
+10733_8#12	ERR375473	Human invasive infection	1	132	Hospital 1	R	R	
+10733_8#13	ERR375474	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10733_8#15	ERR375476	Human invasive infection	2	280	Hospital 1	R	R	
+10733_8#18	ERR375479	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10733_8#19	ERR375480	Human invasive infection	1	18	Hospital 1	R	R	
+10733_8#20	ERR375481	Human invasive infection	9	412	Hospital 1	R	R	
+10733_8#21	ERR375482	Human invasive infection	2	117	Hospital 1	R	R	
+10733_8#22	ERR375483	Human invasive infection	9	412	Hospital 1	R	R	
+10733_8#23	ERR375484	Human invasive infection	9	78	Hospital 1	R	S	
+10733_8#24	ERR375485	Human invasive infection	1	186	Hospital 1	R	S	
+10733_8#25	ERR375486	Human invasive infection	1	132	Hospital 1	R	R	
+10733_8#26	ERR375487	Human invasive infection	2	117	Hospital 1	R	S	Removed
+10733_8#27	ERR375488	Human invasive infection	9	203	Hospital 1	R	R	
+10733_8#28	ERR375489	Human invasive infection	2	80	Hospital 34	R	R	
+10733_8#30	ERR375491	Human invasive infection	2	117	Hospital 1	R	S	
+10733_8#32	ERR375493	Human invasive infection	9	192	Hospital 1	R	R	Removed
+10733_8#33	ERR375494	Human invasive infection	1	17	Hospital 1	R	R	
+10733_8#34	ERR375495	Human invasive infection	2	117	Hospital 1	R	R	
+10733_8#35	ERR375496	Human invasive infection	9	412	Hospital 1	R	R	
+10733_8#36	ERR375497	Human invasive infection	1	18	Hospital 1	R	R	
+10733_8#37	ERR375498	Human invasive infection	9	412	Hospital 1	R	R	
+10733_8#38	ERR375499	Human invasive infection	1	202	Hospital 1	R	S	
+10733_8#39	ERR375500	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10733_8#41	ERR375502	Human invasive infection	2	780	Hospital 1	R	R	
+10733_8#43	ERR375504	Human invasive infection	2	117	Hospital 1	R	S	
+10733_8#45	ERR375506	Human invasive infection	5	18	Hospital 1	R	S	
+10733_8#48	ERR375509	Human invasive infection	1	17	Hospital 1	R	S	
+10733_8#5	ERR375466	Human invasive infection	6	80	Hospital 1	R	R	
+10733_8#51	ERR375512	Human invasive infection	1	18	Hospital 1	R	S	
+10733_8#52	ERR375513	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10733_8#53	ERR375514	Human invasive infection	9	412	Hospital 1	R	S	
+10733_8#54	ERR375515	Human invasive infection	9	78	Hospital 1	R	S	
+10733_8#55	ERR375516	Human invasive infection	1	17	Hospital 1	R	S	
+10733_8#58	ERR375519	Human invasive infection	1	18	Hospital 1	R	S	Removed
+10733_8#59	ERR375520	Human invasive infection	1	18	Hospital 34	R	R	
+10733_8#6	ERR375467	Human invasive infection	9	192	Hospital 1	R	R	Removed
+10733_8#61	ERR375522	Human invasive infection	9	203	Hospital 1	R	S	
+10733_8#62	ERR375523	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10733_8#63	ERR375524	Human invasive infection	9	412	Hospital 1	R	R	
+10733_8#68	ERR375529	Human invasive infection	9	412	Hospital 1	R	S	
+10733_8#69	ERR375530	Human invasive infection	2	551	Hospital 1	R	R	
+10733_8#7	ERR375468	Human invasive infection	2	117	Hospital 1	R	S	
+10733_8#71	ERR375532	Human invasive infection	2	117	Hospital 1	R	R	Removed
+10733_8#73	ERR375534	Human invasive infection	2	551	Hospital 1	R	R	Removed
+10733_8#76	ERR375537	Human invasive infection	1	17	Hospital 2	R	S	
+10733_8#77	ERR375538	Human invasive infection	9	203	Hospital 1	R	R	
+10733_8#78	ERR375539	Human invasive infection	2	551	Hospital 1	R	S	
+10733_8#80	ERR375541	Human invasive infection	7	1485	Hospital 1	S	S	
+10733_8#81	ERR375542	Human invasive infection	2	280	Hospital 1	R	R	
+10733_8#83	ERR375544	Human invasive infection	2	18	Hospital 1	R	R	
+10733_8#87	ERR375548	Human invasive infection	9	412	Hospital 1	R	R	Removed
+10733_8#89	ERR375550	Human invasive infection	1	17	Hospital 1	R	S	Removed
+10733_8#9	ERR375470	Human invasive infection	1	202	Hospital 1	R	R	
+10733_8#90	ERR375551	Human invasive infection	2	789	Hospital 1	R	S	
+10733_8#92	ERR375553	Human invasive infection	1	18	Hospital 1	R	R	
+10733_8#93	ERR375554	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10733_8#94	ERR375555	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10733_8#95	ERR375556	Human invasive infection	9	412	Hospital 1	R	S	
+10733_8#96	ERR375557	Human invasive infection	2	280	Hospital 1	R	R	
+10770_1#1	ERR377424	Human invasive infection	9	192	Hospital 1	R	R	Removed
+10770_1#10	ERR377433	Human invasive infection	9	203	Hospital 1	R	S	
+10770_1#11	ERR377434	Human invasive infection	2	117	Hospital 1	R	R	
+10770_1#13	ERR377436	Human invasive infection	2	117	Hospital 1	R	S	
+10770_1#14	ERR377437	Human invasive infection	9	412	Hospital 1	R	S	
+10770_1#15	ERR377438	Human invasive infection	9	78	Hospital 34	R	S	
+10770_1#16	ERR377439	Human invasive infection	2	117	Hospital 1	R	R	
+10770_1#17	ERR377440	Human invasive infection	9	412	Hospital 1	R	R	
+10770_1#19	ERR377442	Human invasive infection	9	203	Hospital 1	R	R	
+10770_1#2	ERR377425	Human invasive infection	9	412	Hospital 1	R	R	
+10770_1#20	ERR377443	Human invasive infection	2	375	Hospital 1	R	R	
+10770_1#21	ERR377444	Human invasive infection	9	192	Hospital 1	R	R	
+10770_1#22	ERR377445	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10770_1#23	ERR377446	Human invasive infection	9	192	Hospital 1	R	S	
+10770_1#24	ERR377447	Human invasive infection	1	202	Hospital 1	I	R	
+10770_1#27	ERR377450	Human invasive infection	6	80	Hospital 1	R	S	
+10770_1#28	ERR377451	Human invasive infection	1	17	Hospital 1	R	R	
+10770_1#3	ERR377426	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10770_1#31	ERR377454	Human invasive infection	9	192	Hospital 1	R	S	
+10770_1#32	ERR377455	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10770_1#34	ERR377457	Human invasive infection	2	117	Hospital 1	R	R	
+10770_1#35	ERR377458	Human invasive infection	9	412	Hospital 1	R	S	
+10770_1#39	ERR377462	Human invasive infection	1	64	Hospital 2	R	S	
+10770_1#4	ERR377427	Human invasive infection	1	132	Hospital 1	R	R	Removed
+10770_1#41	ERR377464	Human invasive infection	1	18	Hospital 34	R	R	
+10770_1#42	ERR377465	Human invasive infection	9	203	Hospital 1	R	R	
+10770_1#45	ERR377468	Human invasive infection	2	280	Hospital 1	R	R	
+10770_1#46	ERR377469	Human invasive infection	2	80	Hospital 1	R	S	
+10770_1#48	ERR377471	Human invasive infection	9	203	Hospital 1	R	R	Removed
+10770_1#50	ERR377473	Human invasive infection	1	202	Hospital 1	R	R	
+10770_1#51	ERR377474	Human invasive infection	9	203	Hospital 1	R	R	
+10770_1#54	ERR377477	Human invasive infection	9	203	Hospital 1	R	S	
+10770_1#55	ERR377478	Human invasive infection	2	280	Hospital 1	R	S	
+10770_1#56	ERR377479	Human invasive infection	1	202	Hospital 1	R	R	
+10770_1#58	ERR377481	Human invasive infection	9	192	Hospital 1	R	S	
+10770_1#6	ERR377429	Human invasive infection	9	412	Hospital 1	R	R	Removed
+10770_1#60	ERR377483	Human invasive infection	9	412	Hospital 1	R	S	
+10770_1#61	ERR377484	Human invasive infection	9	78	Hospital 1	R	S	
+10770_1#62	ERR377485	Human invasive infection	1	18	Hospital 1	R	S	
+10770_1#63	ERR377486	Human invasive infection	2	117	Hospital 1	R	S	
+10770_1#66	ERR377489	Human invasive infection	2	117	Hospital 1	R	S	Removed
+10770_1#68	ERR377491	Human invasive infection	9	412	Hospital 1	R	R	Removed
+10770_1#69	ERR377492	Human invasive infection	2	551	Hospital 1	R	R	Removed
+10770_1#7	ERR377430	Human invasive infection	9	203	Hospital 1	R	R	
+10770_1#70	ERR377493	Human invasive infection	1	18	Hospital 1	R	R	
+10770_1#71	ERR377494	Human invasive infection	9	192	Hospital 1	R	S	
+10770_1#73	ERR377496	Human invasive infection	9	412	Hospital 1	R	S	Removed
+10770_1#74	ERR377497	Human invasive infection	9	412	Hospital 1	R	R	
+10770_1#78	ERR377501	Human invasive infection	9	78	Hospital 1	R	S	
+10770_1#82	ERR377505	Human invasive infection	1	64	Hospital 1	R	R	Removed
+10770_1#85	ERR377508	Human invasive infection	9	192	Hospital 1	R	S	Removed
+10770_1#87	ERR377510	Human invasive infection	2	280	Hospital 1	R	S	
+10770_1#89	ERR377512	Human invasive infection	6	80	Hospital 1	R	R	
+10770_1#93	ERR377516	Human invasive infection	5	779	Hospital 1	S	S	
+10770_1#96	ERR377519	Human invasive infection	1	17	Hospital 1	R	S	
+10900_1#1	ERR388697	Human invasive infection	2	117	Hospital 1	R	R	
+10900_1#18	ERR388714	Human invasive infection	1	17	Hospital 1	R	R	
+10900_1#19	ERR388715	Human invasive infection	1	18	Hospital 1	R	R	
+10900_1#2	ERR388698	Human invasive infection	2	117	Hospital 1	R	R	
+10900_1#21	ERR388717	Human invasive infection	9	203	Hospital 1	R	R	
+10900_1#22	ERR388718	Human invasive infection	1	18	Hospital 1	R	R	
+10900_1#26	ERR388722	Human invasive infection	2	375	Hospital 1	R	R	Removed
+10900_1#4	ERR388700	Human invasive infection	1	17	Hospital 1	R	R	Removed
+10900_1#5	ERR388701	Human invasive infection	2	80	Hospital 1	R	R	
+10900_1#6	ERR388702	Human invasive infection	2	552	Hospital 1	R	R	
+10900_1#7	ERR388703	Human invasive infection	2	375	Hospital 1	R	R	
+10900_4#66	ERR388687	Human invasive infection	1	202	Hospital 10	R	R	
+10900_4#67	ERR388688	Human invasive infection	9	78	Hospital 12	R	R	
+10900_4#68	ERR388689	Human invasive infection	1	18	Hospital 24	R	S	
+10900_4#69	ERR388690	Human invasive infection	1	132	Hospital 38	R	R	
+10900_4#70	ERR388691	Human invasive infection	1	80	Hospital 39	R	S	
+10900_4#71	ERR388692	Human invasive infection	1	18	Hospital 39	R	R	
+10900_4#72	ERR388693	Human invasive infection	1	18	Hospital 40	R	S	
+10900_4#73	ERR388694	Human invasive infection	2	280	Hospital 17	R	S	
+10900_4#75	ERR388696	Human invasive infection	9	412	Hospital 32	R	R	
+10900_4#76	ERR388723	Human invasive infection	9	78	Hospital 1	R	R	
+10900_4#77	ERR388724	Human invasive infection	9	78	Hospital 2	R	R	
+10900_4#78	ERR388725	Human invasive infection	1	18	Hospital 1	R	S	
+16356_1#22	ERR987499	Wastewater	5	266	Wastewater plant 2	R	S	
+16356_1#23	ERR987500	Wastewater	7	1202	Wastewater plant 2	S	S	
+16356_1#24	ERR987501	Wastewater	3	94	Wastewater plant 2	S	S	
+16356_1#25	ERR987502	Wastewater	3	94	Wastewater plant 2	S	S	Removed
+16356_1#26	ERR987503	Wastewater	5	1217	Wastewater plant 2	S	S	
+16356_1#27	ERR987504	Wastewater	4	1	Wastewater plant 2	S	S	
+16356_1#28	ERR987505	Wastewater	4	1216	Wastewater plant 2	S	S	
+16356_1#29	ERR987506	Wastewater	4	253	Wastewater plant 2	S	S	
+16356_1#30	ERR987507	Wastewater	2	1478	Wastewater plant 2	R	R	
+16356_1#31	ERR987508	Wastewater	1	17	Wastewater plant 2	R	R	
+16356_1#32	ERR987509	Wastewater	9	203	Wastewater plant 2	R	R	
+16356_1#33	ERR987510	Wastewater	1	17	Wastewater plant 2	R	R	Removed
+16356_1#34	ERR987511	Wastewater	1	18	Wastewater plant 2	R	R	
+16356_1#35	ERR987512	Wastewater	2	1478	Wastewater plant 2	R	R	Removed
+16356_1#36	ERR987513	Wastewater	4	1215	Wastewater plant 2	S	S	
+16356_1#37	ERR987514	Wastewater	1	262	Wastewater plant 3	R	R	
+16356_1#38	ERR987515	Wastewater	1	18	Wastewater plant 2	R	S	
+16356_1#39	ERR987516	Wastewater	2	80	Wastewater plant 3	R	R	
+16356_1#40	ERR987517	Wastewater	3	60	Wastewater plant 3	S	S	
+16356_1#41	ERR987518	Wastewater	4	1213	Wastewater plant 3	S	S	
+16356_1#42	ERR987519	Wastewater	1	17	Wastewater plant 4	R	R	
+16356_1#43	ERR987520	Wastewater	1	18	Wastewater plant 4	R	S	
+16356_1#44	ERR987521	Wastewater	1	18	Wastewater plant 4	R	S	
+16356_1#45	ERR987522	Wastewater	5	32	Wastewater plant 4	S	S	
+16356_1#46	ERR987523	Wastewater	6	80	Wastewater plant 5	R	R	
+16356_1#47	ERR987524	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16356_1#48	ERR987525	Wastewater	3	695	Wastewater plant 4	S	S	
+16356_1#49	ERR987526	Wastewater	1	17	Wastewater plant 4	R	R	
+16356_1#50	ERR987527	Wastewater	9	412	Wastewater plant 3	R	S	
+16356_1#51	ERR987528	Wastewater	1	262	Wastewater plant 3	R	R	Removed
+16356_1#53	ERR987530	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16356_1#54	ERR987531	Wastewater	5	1214	Wastewater plant 3	S	S	
+16356_1#55	ERR987532	Wastewater	5	1210	Wastewater plant 3	S	S	
+16356_1#56	ERR987533	Wastewater	5	1211	Wastewater plant 3	S	S	
+16356_1#57	ERR987534	Wastewater	5	928	Wastewater plant 3	S	S	
+16356_1#58	ERR987535	Wastewater	5	214	Wastewater plant 3	S	S	
+16356_1#59	ERR987536	Wastewater	6	80	Wastewater plant 3	R	S	
+16356_1#60	ERR987537	Wastewater	6	80	Wastewater plant 3	R	R	
+16356_1#61	ERR987538	Wastewater	6	80	Wastewater plant 3	R	R	Removed
+16356_1#62	ERR987539	Wastewater	1	17	Wastewater plant 4	R	R	Removed
+16356_1#63	ERR987540	Wastewater	1	18	Wastewater plant 2	R	R	
+16356_1#64	ERR987541	Wastewater	2	230	Wastewater plant 2	R	R	
+16356_1#65	ERR987542	Wastewater	2	230	Wastewater plant 2	R	R	Removed
+16356_1#66	ERR987543	Wastewater	9	78	Wastewater plant 4	R	R	
+16356_1#67	ERR987544	Wastewater	2	230	Wastewater plant 4	R	R	
+16356_1#68	ERR987545	Wastewater	9	78	Wastewater plant 4	R	S	
+16356_1#69	ERR987546	Wastewater	2	230	Wastewater plant 4	R	R	Removed
+16356_1#70	ERR987547	Wastewater	1	18	Wastewater plant 5	R	S	
+16356_1#71	ERR987548	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16356_1#72	ERR987549	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16356_1#73	ERR987550	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16356_1#74	ERR987551	Wastewater	1	18	Wastewater plant 4	R	R	
+16356_1#75	ERR987552	Wastewater	4	1223	Wastewater plant 4	S	S	
+16356_1#76	ERR987553	Wastewater	1	18	Wastewater plant 4	R	S	
+16356_1#77	ERR987554	Wastewater	4	834	Wastewater plant 4	S	S	
+16356_1#78	ERR987555	Wastewater	5	32	Wastewater plant 3	S	S	
+16356_1#79	ERR987556	Wastewater	1	262	Wastewater plant 3	R	R	Removed
+16356_1#80	ERR987557	Wastewater	1	262	Wastewater plant 3	R	R	Removed
+16356_1#81	ERR987558	Wastewater	3	60	Wastewater plant 6	S	S	
+16356_1#83	ERR987560	Wastewater	5	22	Wastewater plant 6	S	S	
+16356_1#84	ERR987561	Wastewater	3	94	Wastewater plant 6	S	S	
+16356_1#85	ERR987562	Wastewater	1	18	Wastewater plant 6	R	S	
+16356_1#86	ERR987563	Wastewater	6	80	Wastewater plant 3	R	R	Removed
+16356_1#87	ERR987564	Wastewater	9	78	Wastewater plant 6	R	R	
+16356_1#88	ERR987565	Wastewater	6	80	Wastewater plant 4	R	R	
+16356_2#1	ERR987566	Wastewater	6	80	Wastewater plant 6	R	R	
+16356_2#10	ERR987575	Wastewater	6	80	Wastewater plant 4	R	R	
+16356_2#11	ERR987576	Wastewater	6	80	Wastewater plant 4	R	S	
+16356_2#12	ERR987577	Wastewater	9	78	Wastewater plant 4	R	S	Removed
+16356_2#13	ERR987578	Wastewater	6	80	Wastewater plant 4	R	R	
+16356_2#14	ERR987579	Wastewater	6	80	Wastewater plant 6	R	R	Removed
+16356_2#15	ERR987580	Wastewater	6	80	Wastewater plant 6	R	S	
+16356_2#16	ERR987581	Wastewater	4	253	Wastewater plant 6	S	S	
+16356_2#17	ERR987582	Wastewater	5	192	Wastewater plant 5	R	S	
+16356_2#18	ERR987583	Wastewater	6	80	Wastewater plant 6	R	R	Removed
+16356_2#19	ERR987584	Wastewater	6	80	Wastewater plant 6	R	S	Removed
+16356_2#2	ERR987567	Wastewater	6	80	Wastewater plant 6	R	R	Removed
+16356_2#20	ERR987585	Wastewater	9	78	Wastewater plant 6	R	R	
+16356_2#21	ERR987586	Wastewater	2	80	Wastewater plant 6	R	R	
+16356_2#22	ERR987587	Wastewater	5	22	Wastewater plant 5	S	S	
+16356_2#23	ERR987588	Wastewater	3	654	Wastewater plant 5	S	S	
+16356_2#24	ERR987589	Wastewater	7	928	Wastewater plant 5	S	S	
+16356_2#25	ERR987590	Wastewater	6	80	Wastewater plant 6	R	R	
+16356_2#26	ERR987591	Wastewater	5	21	Wastewater plant 5	S	S	
+16356_2#27	ERR987592	Wastewater	1	18	Wastewater plant 5	R	R	
+16356_2#28	ERR987593	Wastewater	2	80	Wastewater plant 5	R	S	
+16356_2#29	ERR987594	Wastewater	4	372	Wastewater plant 7	S	S	
+16356_2#3	ERR987568	Wastewater	6	80	Wastewater plant 6	R	R	Removed
+16356_2#30	ERR987595	Wastewater	3	94	Wastewater plant 7	S	S	
+16356_2#31	ERR987596	Wastewater	7	107	Wastewater plant 7	S	S	
+16356_2#32	ERR987597	Wastewater	1	18	Wastewater plant 7	R	S	
+16356_2#33	ERR987598	Wastewater	5	192	Wastewater plant 7	R	S	
+16356_2#34	ERR987599	Wastewater	4	1209	Wastewater plant 7	S	S	
+16356_2#35	ERR987600	Wastewater	5	80	Wastewater plant 7	R	S	
+16356_2#36	ERR987601	Wastewater	9	412	Wastewater plant 7	R	S	
+16356_2#37	ERR987602	Wastewater	1	17	Wastewater plant 7	R	S	
+16356_2#38	ERR987603	Wastewater	10	474	Wastewater plant 8	S	S	
+16356_2#39	ERR987604	Wastewater	3	696	Wastewater plant 8	S	S	
+16356_2#4	ERR987569	Wastewater	3	696	Wastewater plant 5	S	S	
+16356_2#40	ERR987605	Wastewater	1	18	Wastewater plant 8	R	S	
+16356_2#41	ERR987606	Wastewater	5	192	Wastewater plant 8	R	S	
+16356_2#42	ERR987607	Wastewater	5	266	Wastewater plant 8	R	S	
+16356_2#43	ERR987608	Wastewater	4	1233	Wastewater plant 8	S	S	
+16356_2#44	ERR987609	Wastewater	3	296	Wastewater plant 8	S	S	
+16356_2#45	ERR987610	Wastewater	3	296	Wastewater plant 8	S	S	Removed
+16356_2#46	ERR987611	Wastewater	1	18	Wastewater plant 8	R	S	Removed
+16356_2#47	ERR987612	Wastewater	1	18	Wastewater plant 8	R	S	Removed
+16356_2#48	ERR987613	Wastewater	3	94	Wastewater plant 9	S	S	
+16356_2#49	ERR987614	Wastewater	10	474	Wastewater plant 9	S	S	
+16356_2#5	ERR987570	Wastewater	5	401	Wastewater plant 5	R	S	
+16356_2#50	ERR987615	Wastewater	1	18	Wastewater plant 9	R	S	
+16356_2#51	ERR987616	Wastewater	5	19	Wastewater plant 9	R	S	
+16356_2#52	ERR987617	Wastewater	1	18	Wastewater plant 9	R	S	
+16356_2#53	ERR987618	Wastewater	3	1244	Wastewater plant 9	S	S	
+16356_2#54	ERR987619	Wastewater	5	192	Wastewater plant 9	R	S	
+16356_2#55	ERR987620	Wastewater	1	18	Wastewater plant 9	R	S	
+16356_2#56	ERR987621	Wastewater	4	38	Wastewater plant 10	S	S	
+16356_2#57	ERR987622	Wastewater	4	38	Wastewater plant 10	S	S	
+16356_2#58	ERR987623	Wastewater	4	38	Wastewater plant 10	S	S	Removed
+16356_2#59	ERR987624	Wastewater	3	60	Wastewater plant 10	S	S	
+16356_2#6	ERR987571	Wastewater	2	80	Wastewater plant 5	R	S	Removed
+16356_2#60	ERR987625	Wastewater	3	1135	Wastewater plant 10	S	S	
+16356_2#61	ERR987626	Wastewater	1	18	Wastewater plant 10	R	S	
+16356_2#62	ERR987627	Wastewater	9	192	Wastewater plant 10	R	S	
+16356_2#63	ERR987628	Wastewater	1	18	Wastewater plant 10	R	S	Removed
+16356_2#64	ERR987629	Wastewater	9	203	Wastewater plant 10	R	S	
+16356_2#65	ERR987630	Wastewater	1	18	Wastewater plant 10	R	S	Removed
+16356_2#66	ERR987631	Wastewater	5	413	Wastewater plant 11	S	S	
+16356_2#67	ERR987632	Wastewater	3	94	Wastewater plant 11	S	S	
+16356_2#68	ERR987633	Wastewater	7	224	Wastewater plant 11	S	S	
+16356_2#69	ERR987634	Wastewater	4	70	Wastewater plant 11	S	S	
+16356_2#7	ERR987572	Wastewater	6	80	Wastewater plant 6	R	R	Removed
+16356_2#70	ERR987635	Wastewater	3	94	Wastewater plant 11	S	S	
+16356_2#71	ERR987636	Wastewater	7	1255	Wastewater plant 11	S	S	
+16356_2#72	ERR987637	Wastewater	3	94	Wastewater plant 11	S	S	Removed
+16356_2#73	ERR987638	Wastewater	8	640	Wastewater plant 11	R	S	
+16356_2#74	ERR987639	Wastewater	1	18	Wastewater plant 11	R	S	
+16356_2#75	ERR987640	Wastewater	4	569	Wastewater plant 11	R	S	
+16356_2#76	ERR987641	Wastewater	3	361	Wastewater plant 12	S	S	
+16356_2#77	ERR987642	Wastewater	5	32	Wastewater plant 12	S	S	
+16356_2#78	ERR987643	Wastewater	1	18	Wastewater plant 12	R	S	
+16356_2#79	ERR987644	Wastewater	6	80	Wastewater plant 12	R	S	
+16356_2#80	ERR987645	Wastewater	6	787	Wastewater plant 12	R	R	
+16356_2#81	ERR987646	Wastewater	5	266	Wastewater plant 12	R	S	
+16356_2#82	ERR987647	Wastewater	3	1261	Wastewater plant 12	S	S	
+16356_2#83	ERR987648	Wastewater	6	80	Wastewater plant 12	R	S	Removed
+16356_2#84	ERR987649	Wastewater	6	80	Wastewater plant 12	R	S	Removed
+16356_2#85	ERR987650	Wastewater	6	80	Wastewater plant 12	R	S	
+16356_2#86	ERR987651	Wastewater	1	262	Wastewater plant 12	R	S	
+16356_2#87	ERR987652	Wastewater	5	266	Wastewater plant 13	R	S	
+16356_2#88	ERR987653	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16356_2#9	ERR987574	Wastewater	6	80	Wastewater plant 5	R	R	Removed
+16404_1#1	ERR984971	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#10	ERR984979	Wastewater	4	253	Wastewater plant 14	S	S	
+16404_1#12	ERR984980	Wastewater	9	192	Wastewater plant 14	R	S	
+16404_1#13	ERR984981	Wastewater	6	80	Wastewater plant 14	R	S	
+16404_1#14	ERR984982	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#15	ERR984983	Wastewater	6	80	Wastewater plant 15	R	S	
+16404_1#16	ERR984984	Wastewater	9	203	Wastewater plant 15	R	S	
+16404_1#17	ERR984985	Wastewater	1	18	Wastewater plant 15	R	S	
+16404_1#18	ERR984986	Wastewater	1	18	Wastewater plant 15	R	S	
+16404_1#2	ERR984972	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#20	ERR984987	Wastewater	1	17	Wastewater plant 15	R	S	
+16404_1#21	ERR984988	Wastewater	5	533	Wastewater plant 15	S	S	
+16404_1#22	ERR984989	Wastewater	6	80	Wastewater plant 15	R	S	
+16404_1#23	ERR984990	Wastewater	2	80	Wastewater plant 15	R	S	
+16404_1#24	ERR984991	Wastewater	6	80	Wastewater plant 15	R	S	
+16404_1#25	ERR984992	Wastewater	5	22	Wastewater plant 16	S	S	
+16404_1#26	ERR984993	Wastewater	5	1262	Wastewater plant 16	S	S	
+16404_1#28	ERR984994	Wastewater	3	834	Wastewater plant 16	S	S	
+16404_1#29	ERR984995	Wastewater	1	202	Wastewater plant 16	R	S	
+16404_1#30	ERR984996	Wastewater	1	262	Wastewater plant 16	R	S	
+16404_1#31	ERR984997	Wastewater	1	18	Wastewater plant 16	R	S	
+16404_1#32	ERR984998	Wastewater	1	1029	Wastewater plant 16	R	S	
+16404_1#33	ERR984999	Wastewater	8	885	Wastewater plant 16	R	S	
+16404_1#34	ERR985000	Wastewater	5	19	Wastewater plant 16	R	S	
+16404_1#36	ERR985001	Wastewater	9	203	Wastewater plant 14	R	S	
+16404_1#37	ERR985002	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#39	ERR985004	Wastewater	3	604	Wastewater plant 17	S	S	
+16404_1#4	ERR984973	Wastewater	4	253	Wastewater plant 13	S	S	
+16404_1#40	ERR985005	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16404_1#41	ERR985006	Wastewater	1	1263	Wastewater plant 17	R	S	
+16404_1#42	ERR985007	Wastewater	9	192	Wastewater plant 10	R	R	
+16404_1#44	ERR985008	Wastewater	2	780	Wastewater plant 10	R	R	
+16404_1#45	ERR985009	Wastewater	2	780	Wastewater plant 10	R	R	Removed
+16404_1#46	ERR985010	Wastewater	3	178	Wastewater plant 17	S	S	
+16404_1#47	ERR985011	Wastewater	8	148	Wastewater plant 17	R	S	
+16404_1#48	ERR985012	Wastewater	6	80	Wastewater plant 17	R	S	
+16404_1#49	ERR985013	Wastewater	6	80	Wastewater plant 17	R	S	
+16404_1#5	ERR984974	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#50	ERR985014	Wastewater	6	787	Wastewater plant 7	R	R	
+16404_1#52	ERR985015	Wastewater	1	262	Wastewater plant 7	R	R	
+16404_1#53	ERR985016	Wastewater	6	787	Wastewater plant 7	R	R	Removed
+16404_1#54	ERR985017	Wastewater	2	780	Wastewater plant 10	R	R	Removed
+16404_1#55	ERR985018	Wastewater	2	780	Wastewater plant 10	R	R	Removed
+16404_1#56	ERR985019	Wastewater	2	780	Wastewater plant 10	R	R	Removed
+16404_1#57	ERR985020	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16404_1#58	ERR985021	Wastewater	6	787	Wastewater plant 7	R	R	Removed
+16404_1#6	ERR984975	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+16404_1#60	ERR985022	Wastewater	1	787	Wastewater plant 7	I	R	
+16404_1#61	ERR985023	Wastewater	1	262	Wastewater plant 7	R	R	
+16404_1#62	ERR985024	Wastewater	6	80	Wastewater plant 7	R	R	
+16404_1#63	ERR985025	Wastewater	6	80	Wastewater plant 8	R	R	
+16404_1#64	ERR985026	Wastewater	2	80	Wastewater plant 11	R	R	
+16404_1#65	ERR985027	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16404_1#66	ERR985028	Wastewater	6	80	Wastewater plant 8	R	R	Removed
+16404_1#68	ERR985029	Wastewater	6	80	Wastewater plant 8	R	R	Removed
+16404_1#69	ERR985030	Wastewater	6	80	Wastewater plant 9	R	R	
+16404_1#7	ERR984976	Wastewater	4	52	Wastewater plant 14	S	S	
+16404_1#70	ERR985031	Wastewater	6	80	Wastewater plant 9	R	R	
+16404_1#71	ERR985032	Wastewater	6	80	Wastewater plant 9	R	R	
+16404_1#72	ERR985033	Wastewater	6	787	Wastewater plant 9	R	R	
+16404_1#73	ERR985034	Wastewater	1	18	Wastewater plant 17	R	S	
+16404_1#74	ERR985035	Wastewater	2	80	Wastewater plant 9	R	R	
+16404_1#76	ERR985036	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16404_1#77	ERR985037	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16404_1#78	ERR985038	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16404_1#79	ERR985039	Wastewater	6	1220	Wastewater plant 14	R	R	
+16404_1#8	ERR984977	Wastewater	9	772	Wastewater plant 14	R	S	
+16404_1#80	ERR985040	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16404_1#81	ERR985041	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16404_1#82	ERR985042	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16404_1#84	ERR985043	Wastewater	1	17	Wastewater plant 12	R	R	
+16404_1#85	ERR985044	Wastewater	6	117	Wastewater plant 12	R	R	
+16404_1#86	ERR985045	Wastewater	1	17	Wastewater plant 12	R	R	
+16404_1#87	ERR985046	Wastewater	6	1220	Wastewater plant 14	R	R	Removed
+16404_1#88	ERR985047	Wastewater	1	17	Wastewater plant 16	R	R	
+16404_1#9	ERR984978	Wastewater	6	761	Wastewater plant 14	R	S	
+16404_2#1	ERR985048	Wastewater	6	117	Wastewater plant 12	R	R	Removed
+16404_2#10	ERR985057	Wastewater	6	80	Wastewater plant 13	R	R	
+16404_2#11	ERR985058	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#12	ERR985059	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#13	ERR985060	Wastewater	1	17	Wastewater plant 16	R	R	Removed
+16404_2#14	ERR985061	Wastewater	6	80	Wastewater plant 17	R	R	
+16404_2#15	ERR985062	Wastewater	6	80	Wastewater plant 17	R	R	
+16404_2#16	ERR985063	Wastewater	6	80	Wastewater plant 17	R	R	
+16404_2#17	ERR985064	Wastewater	9	78	Wastewater plant 15	R	R	
+16404_2#18	ERR985065	Wastewater	2	280	Wastewater plant 15	R	R	
+16404_2#19	ERR985066	Wastewater	6	80	Wastewater plant 15	R	R	
+16404_2#2	ERR985049	Wastewater	6	117	Wastewater plant 12	R	R	Removed
+16404_2#20	ERR985067	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16404_2#21	ERR985068	Wastewater	1	17	Wastewater plant 15	R	R	
+16404_2#22	ERR985069	Wastewater	6	80	Wastewater plant 16	R	R	
+16404_2#23	ERR985070	Wastewater	6	80	Wastewater plant 16	R	R	Removed
+16404_2#24	ERR985071	Wastewater	6	80	Wastewater plant 16	R	R	
+16404_2#25	ERR985072	Wastewater	1	17	Wastewater plant 16	R	R	Removed
+16404_2#26	ERR985073	Wastewater	2	992	Wastewater plant 16	S	R	
+16404_2#27	ERR985074	Wastewater	1	80	Wastewater plant 16	R	R	
+16404_2#28	ERR985075	Wastewater	2	992	Wastewater plant 16	R	R	
+16404_2#29	ERR985076	Wastewater	2	992	Wastewater plant 16	S	R	
+16404_2#3	ERR985050	Wastewater	6	117	Wastewater plant 12	R	R	Removed
+16404_2#30	ERR985077	Wastewater	4	97	Wastewater plant 1	S	S	
+16404_2#31	ERR985078	Wastewater	9	796	Wastewater plant 1	R	R	
+16404_2#32	ERR985079	Wastewater	6	80	Wastewater plant 1	R	R	
+16404_2#33	ERR985080	Wastewater	1	17	Wastewater plant 1	R	R	
+16404_2#34	ERR985081	Wastewater	1	18	Wastewater plant 1	R	R	
+16404_2#35	ERR985082	Wastewater	6	80	Wastewater plant 1	R	R	
+16404_2#36	ERR985083	Wastewater	1	18	Wastewater plant 1	R	R	
+16404_2#37	ERR985084	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16404_2#38	ERR985085	Wastewater	1	262	Wastewater plant 1	R	S	
+16404_2#39	ERR985086	Wastewater	5	1203	Wastewater plant 1	S	S	
+16404_2#4	ERR985051	Wastewater	1	17	Wastewater plant 12	R	R	Removed
+16404_2#40	ERR985087	Wastewater	3	178	Wastewater plant 1	S	S	
+16404_2#41	ERR985088	Wastewater	2	117	Wastewater plant 17	R	R	
+16404_2#42	ERR985089	Wastewater	9	412	Wastewater plant 17	R	S	
+16404_2#43	ERR985090	Wastewater	1	64	Wastewater plant 17	R	S	
+16404_2#44	ERR985091	Wastewater	6	80	Wastewater plant 17	R	R	
+16404_2#45	ERR985092	Wastewater	4	1216	Wastewater plant 1	S	S	
+16404_2#46	ERR985093	Wastewater	6	80	Wastewater plant 1	R	R	
+16404_2#47	ERR985094	Wastewater	1	787	Wastewater plant 1	R	R	
+16404_2#48	ERR985095	Wastewater	5	1204	Wastewater plant 1	S	S	
+16404_2#49	ERR985096	Wastewater	4	97	Wastewater plant 1	S	S	Removed
+16404_2#5	ERR985052	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#50	ERR985097	Wastewater	6	780	Wastewater plant 1	R	R	
+16404_2#51	ERR985098	Wastewater	2	780	Wastewater plant 1	R	R	
+16404_2#52	ERR985099	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#53	ERR985100	Wastewater	6	80	Wastewater plant 17	R	R	Removed
+16404_2#55	ERR985102	Wastewater	1	17	Wastewater plant 17	R	R	
+16404_2#56	ERR985103	Wastewater	6	80	Wastewater plant 17	R	R	
+16404_2#57	ERR985104	Wastewater	3	1218	Wastewater plant 18	S	S	
+16404_2#58	ERR985105	Wastewater	4	253	Wastewater plant 18	S	S	
+16404_2#59	ERR985106	Wastewater	4	1212	Wastewater plant 18	S	S	
+16404_2#6	ERR985053	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#60	ERR985107	Wastewater	6	80	Wastewater plant 18	R	S	
+16404_2#61	ERR985108	Wastewater	5	401	Wastewater plant 18	R	S	
+16404_2#62	ERR985109	Wastewater	9	203	Wastewater plant 18	R	R	
+16404_2#63	ERR985110	Wastewater	9	203	Wastewater plant 18	R	R	Removed
+16404_2#64	ERR985111	Wastewater	9	203	Wastewater plant 18	R	R	
+16404_2#65	ERR985112	Wastewater	6	80	Wastewater plant 18	R	R	
+16404_2#66	ERR985113	Wastewater	9	78	Wastewater plant 18	R	R	
+16404_2#67	ERR985114	Wastewater	7	1219	Wastewater plant 18	S	S	
+16404_2#68	ERR985115	Wastewater	3	1205	Wastewater plant 18	S	S	
+16404_2#69	ERR985116	Wastewater	6	80	Wastewater plant 18	R	S	
+16404_2#7	ERR985054	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#70	ERR985117	Wastewater	1	280	Wastewater plant 18	R	S	
+16404_2#71	ERR985118	Wastewater	2	612	Wastewater plant 18	R	S	
+16404_2#72	ERR985119	Wastewater	2	230	Wastewater plant 18	R	R	
+16404_2#73	ERR985120	Wastewater	1	280	Wastewater plant 18	R	R	
+16404_2#74	ERR985121	Wastewater	9	203	Wastewater plant 18	R	R	
+16404_2#75	ERR985122	Wastewater	9	203	Wastewater plant 18	R	R	Removed
+16404_2#76	ERR985123	Wastewater	1	17	Wastewater plant 18	R	R	
+16404_2#77	ERR985124	Wastewater	5	502	Wastewater plant 19	S	S	
+16404_2#78	ERR985125	Wastewater	7	1202	Wastewater plant 19	S	S	
+16404_2#79	ERR985126	Wastewater	5	401	Wastewater plant 19	R	S	
+16404_2#8	ERR985055	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16404_2#80	ERR985127	Wastewater	1	1263	Wastewater plant 19	R	S	
+16404_2#81	ERR985128	Wastewater	9	78	Wastewater plant 19	R	R	
+16404_2#82	ERR985129	Wastewater	6	132	Wastewater plant 19	R	S	
+16404_2#83	ERR985130	Wastewater	1	17	Wastewater plant 19	R	R	
+16404_2#84	ERR985131	Wastewater	1	17	Wastewater plant 19	R	R	Removed
+16404_2#85	ERR985132	Wastewater	9	78	Wastewater plant 19	R	R	Removed
+16404_2#86	ERR985133	Wastewater	1	80	Wastewater plant 19	R	R	
+16404_2#87	ERR985134	Wastewater	4	253	Wastewater plant 19	S	S	
+16404_2#88	ERR985135	Wastewater	7	623	Wastewater plant 19	S	S	
+16404_2#9	ERR985056	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16549_1#29	ERR1007500	Chicken meat	8	1249	Supermarket 15	S	R	
+16549_1#30	ERR1007501	Chicken meat	8	1249	Supermarket 18	S	R	
+16880_8#1	ERR1036024	Wastewater	5	1208	Wastewater plant 19	S	S	
+16880_8#10	ERR1036033	Wastewater	5	1207	Wastewater plant 20	S	S	
+16880_8#11	ERR1036034	Wastewater	1	18	Wastewater plant 20	R	S	
+16880_8#12	ERR1036035	Wastewater	6	80	Wastewater plant 17	R	R	Removed
+16880_8#13	ERR1036036	Wastewater	6	80	Wastewater plant 20	R	R	
+16880_8#14	ERR1036037	Wastewater	9	78	Wastewater plant 20	R	R	
+16880_8#15	ERR1036038	Wastewater	6	80	Wastewater plant 20	R	R	
+16880_8#16	ERR1036039	Wastewater	9	78	Wastewater plant 20	R	R	Removed
+16880_8#17	ERR1036040	Wastewater	6	80	Wastewater plant 20	R	R	Removed
+16880_8#18	ERR1036041	Wastewater	3	1206	Wastewater plant 20	S	S	
+16880_8#19	ERR1036042	Wastewater	4	54	Wastewater plant 20	S	S	
+16880_8#2	ERR1036025	Wastewater	1	17	Wastewater plant 19	R	S	
+16880_8#20	ERR1036043	Wastewater	6	80	Wastewater plant 13	R	R	Removed
+16880_8#21	ERR1036044	Wastewater	1	125	Wastewater plant 20	R	S	
+16880_8#22	ERR1036045	Wastewater	1	80	Wastewater plant 20	R	S	
+16880_8#23	ERR1036046	Wastewater	9	78	Wastewater plant 20	R	R	Removed
+16880_8#24	ERR1036047	Wastewater	6	80	Wastewater plant 20	R	R	Removed
+16880_8#25	ERR1036048	Wastewater	6	80	Wastewater plant 20	R	R	Removed
+16880_8#26	ERR1036049	Wastewater	6	80	Wastewater plant 20	R	R	Removed
+16880_8#27	ERR1036050	Wastewater	6	80	Wastewater plant 20	R	R	Removed
+16880_8#28	ERR1036051	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16880_8#29	ERR1036052	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16880_8#3	ERR1036026	Wastewater	8	885	Wastewater plant 19	R	S	
+16880_8#30	ERR1036053	Wastewater	6	1220	Wastewater plant 14	R	R	Removed
+16880_8#31	ERR1036054	Wastewater	6	80	Wastewater plant 14	R	R	Removed
+16880_8#32	ERR1036055	Wastewater	6	80	Wastewater plant 9	R	R	
+16880_8#33	ERR1036056	Wastewater	1	262	Wastewater plant 7	R	R	
+16880_8#34	ERR1036057	Wastewater	4	168	Wastewater plant 14	R	S	
+16880_8#35	ERR1036058	Wastewater	9	203	Wastewater plant 1	R	R	
+16880_8#36	ERR1036059	Wastewater	1	80	Wastewater plant 1	I	R	
+16880_8#37	ERR1036060	Wastewater	2	80	Wastewater plant 1	R	R	
+16880_8#38	ERR1036061	Wastewater	2	230	Wastewater plant 2	R	R	
+16880_8#39	ERR1036062	Wastewater	1	17	Wastewater plant 3	R	S	
+16880_8#4	ERR1036027	Wastewater	1	80	Wastewater plant 19	R	R	Removed
+16880_8#40	ERR1036063	Wastewater	5	214	Wastewater plant 3	R	S	Removed
+16880_8#41	ERR1036064	Wastewater	6	787	Wastewater plant 6	R	S	
+16880_8#42	ERR1036065	Wastewater	6	80	Wastewater plant 9	R	S	
+16880_8#43	ERR1036066	Wastewater	6	80	Wastewater plant 9	R	R	Removed
+16880_8#44	ERR1036067	Wastewater	6	80	Wastewater plant 9	R	R	Removed
+16880_8#45	ERR1036068	Wastewater	2	780	Wastewater plant 10	R	R	
+16880_8#46	ERR1036069	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+16880_8#47	ERR1036070	Wastewater	1	18	Wastewater plant 14	R	R	
+16880_8#48	ERR1036071	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16880_8#49	ERR1036072	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16880_8#5	ERR1036028	Wastewater	2	80	Wastewater plant 19	R	R	
+16880_8#50	ERR1036073	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16880_8#51	ERR1036074	Wastewater	9	78	Wastewater plant 15	R	R	Removed
+16880_8#52	ERR1036075	Wastewater	5	413	Wastewater plant 20	S	S	
+16880_8#53	ERR1036076	Wastewater	5	19	Wastewater plant 20	R	S	
+16880_8#54	ERR1036077	Wastewater	4	563	Wastewater plant 20	R	S	
+16880_8#55	ERR1036078	Wastewater	4	168	Wastewater plant 6	R	S	
+16880_8#56	ERR1036079	Wastewater	5	92	Wastewater plant 14	S	S	
+16880_8#57	ERR1036080	Wastewater	6	787	Wastewater plant 9	R	R	Removed
+16880_8#6	ERR1036029	Wastewater	9	78	Wastewater plant 19	R	R	Removed
+16880_8#7	ERR1036030	Wastewater	1	80	Wastewater plant 19	R	R	Removed
+16880_8#8	ERR1036031	Wastewater	6	80	Wastewater plant 19	R	R	
+16880_8#9	ERR1036032	Wastewater	5	22	Wastewater plant 20	S	S	
+17138_5#83	ERR1069044	Wastewater	5	266	Wastewater plant 13	R	S	Removed
+17138_5#84	ERR1069045	Wastewater	7	1221	Wastewater plant 14	S	S	
+17138_5#85	ERR1069046	Wastewater	1	17	Wastewater plant 15	R	S	
+17138_5#86	ERR1069047	Wastewater	7	623	Wastewater plant 16	S	S	
+17138_5#87	ERR1069048	Wastewater	7	1202	Wastewater plant 7	S	S	
+17138_5#88	ERR1069049	Wastewater	2	780	Wastewater plant 10	R	R	
+17138_5#89	ERR1069050	Wastewater	6	787	Wastewater plant 7	R	R	Removed
+17138_5#90	ERR1069051	Wastewater	1	262	Wastewater plant 7	R	R	Removed
+17138_5#91	ERR1069052	Wastewater	6	80	Wastewater plant 8	R	R	Removed
+17138_5#92	ERR1069053	Wastewater	6	80	Wastewater plant 9	R	R	
+17138_5#93	ERR1069054	Wastewater	2	80	Wastewater plant 11	R	R	Removed
+17328_1#10	ERR1100535	Cattle farm	5	21	Farm 15	S	S	
+17328_1#11	ERR1100536	Cattle farm	5	21	Farm 15	S	S	
+17328_1#12	ERR1100537	Cattle farm	5	32	Farm 17	S	S	
+17328_1#13	ERR1100538	Cattle farm	5	32	Farm 17	S	S	
+17328_1#14	ERR1100539	Cattle farm	5	32	Farm 18	S	S	
+17328_1#15	ERR1100540	Cattle farm	5	32	Farm 18	S	S	Removed
+17328_1#16	ERR1100541	Cattle farm	4	265	Farm 17	R	S	
+17328_1#17	ERR1100542	Cattle farm	4	265	Farm 17	R	S	Removed
+17328_1#18	ERR1100543	Cattle farm	4	265	Farm 17	R	S	Removed
+17328_1#19	ERR1100544	Cattle farm	4	265	Farm 17	R	S	Removed
+17328_1#2	ERR1100527	Cattle farm	7	874	Farm 12	S	S	
+17328_1#20	ERR1100545	Cattle farm	4	265	Farm 17	R	S	Removed
+17328_1#21	ERR1100546	Cattle farm	5	1234	Farm 16	S	S	
+17328_1#22	ERR1100547	Cattle farm	7	537	Farm 16	S	S	
+17328_1#23	ERR1100548	Cattle farm	5	32	Farm 17	S	S	Removed
+17328_1#24	ERR1100549	Cattle farm	5	32	Farm 18	S	S	Removed
+17328_1#25	ERR1100550	Cattle farm	5	32	Farm 18	S	S	Removed
+17328_1#26	ERR1100551	Chicken	3	1238	Farm 19	S	S	
+17328_1#27	ERR1100552	Chicken	8	9	Farm 19	R	S	
+17328_1#28	ERR1100553	Chicken	8	9	Farm 19	S	S	
+17328_1#29	ERR1100554	Chicken	8	1247	Farm 19	S	S	
+17328_1#3	ERR1100528	Cattle farm	4	639	Farm 12	S	S	
+17328_1#30	ERR1100555	Chicken	8	48	Farm 19	S	S	
+17328_1#31	ERR1100556	Chicken	8	10	Farm 19	S	S	
+17328_1#32	ERR1100557	Chicken	8	1243	Farm 20	S	S	
+17328_1#33	ERR1100558	Chicken	8	48	Farm 20	S	S	
+17328_1#34	ERR1100559	Chicken	4	1253	Farm 20	S	S	
+17328_1#35	ERR1100560	Chicken	8	109	Farm 19	R	S	
+17328_1#36	ERR1100561	Chicken	8	1091	Farm 19	R	S	Removed
+17328_1#37	ERR1100562	Chicken	8	12	Farm 19	R	S	
+17328_1#38	ERR1100563	Chicken	8	9	Farm 19	R	S	
+17328_1#39	ERR1100564	Chicken	8	1091	Farm 19	R	S	Removed
+17328_1#4	ERR1100529	Cattle farm	8	640	Farm 13	S	S	
+17328_1#40	ERR1100565	Chicken	8	1230	Farm 19	R	S	
+17328_1#41	ERR1100566	Chicken	8	9	Farm 19	R	S	
+17328_1#42	ERR1100567	Chicken	8	1230	Farm 19	R	S	Removed
+17328_1#43	ERR1100568	Chicken	8	1230	Farm 19	R	S	Removed
+17328_1#44	ERR1100569	Chicken	8	1251	Farm 20	R	S	
+17328_1#45	ERR1100570	Chicken	8	1251	Farm 20	R	S	Removed
+17328_1#46	ERR1100571	Chicken	8	1251	Farm 20	R	S	Removed
+17328_1#47	ERR1100572	Chicken	8	1091	Farm 20	R	S	
+17328_1#48	ERR1100573	Chicken	8	1251	Farm 20	R	S	
+17328_1#49	ERR1100574	Chicken	8	1251	Farm 20	R	S	Removed
+17328_1#5	ERR1100530	Cattle farm	5	402	Farm 13	R	S	
+17328_1#50	ERR1100575	Chicken	8	1251	Farm 20	R	S	Removed
+17328_1#51	ERR1100576	Chicken	8	1251	Farm 20	R	S	Removed
+17328_1#52	ERR1100577	Chicken	8	157	Farm 20	R	S	
+17328_1#53	ERR1100578	Chicken	4	38	Farm 20	S	S	
+17328_1#54	ERR1100579	Turkey	8	422	Farm 21	R	S	
+17328_1#55	ERR1100580	Turkey	8	422	Farm 21	R	S	Removed
+17328_1#56	ERR1100581	Turkey	8	422	Farm 21	R	S	
+17328_1#57	ERR1100582	Turkey	8	422	Farm 21	R	S	Removed
+17328_1#58	ERR1100583	Turkey	8	422	Farm 21	R	S	Removed
+17328_1#59	ERR1100584	Turkey	8	9	Farm 22	R	S	
+17328_1#6	ERR1100531	Cattle farm	5	402	Farm 13	R	S	Removed
+17328_1#60	ERR1100585	Turkey	8	10	Farm 22	S	S	
+17328_1#61	ERR1100586	Turkey	4	1256	Farm 22	S	S	
+17328_1#62	ERR1100587	Turkey	8	422	Farm 23	R	S	
+17328_1#63	ERR1100588	Turkey	4	1231	Farm 24	R	S	
+17328_1#64	ERR1100589	Turkey	4	1231	Farm 24	R	S	Removed
+17328_1#65	ERR1100590	Turkey	4	1231	Farm 24	R	S	Removed
+17328_1#66	ERR1100591	Turkey	4	1227	Farm 24	R	S	
+17328_1#67	ERR1100592	Turkey	4	1231	Farm 24	R	S	
+17328_1#68	ERR1100593	Turkey	4	1227	Farm 24	R	S	Removed
+17328_1#69	ERR1100594	Turkey	4	1231	Farm 24	R	S	
+17328_1#7	ERR1100532	Cattle farm	5	402	Farm 13	R	S	Removed
+17328_1#70	ERR1100595	Turkey	8	146	Farm 25	S	S	
+17328_1#71	ERR1100596	Turkey	4	1231	Farm 25	R	S	
+17328_1#72	ERR1100597	Turkey	4	1231	Farm 25	R	S	Removed
+17328_1#73	ERR1100598	Turkey	4	1231	Farm 25	R	S	
+17328_1#74	ERR1100599	Turkey	4	1248	Farm 25	R	S	
+17328_1#75	ERR1100600	Turkey	4	1231	Farm 25	R	S	Removed
+17328_1#76	ERR1100601	Pig farm	8	56	Farm 2	R	S	
+17328_1#77	ERR1100602	Pig farm	2	947	Farm 9	R	S	
+17328_1#78	ERR1100603	Pig farm	8	56	Farm 11	R	S	
+17328_1#79	ERR1100604	Pig farm	4	1126	Farm 10	S	S	
+17328_1#8	ERR1100533	Cattle farm	5	402	Farm 13	R	S	Removed
+17328_1#80	ERR1100605	Cattle farm	4	639	Farm 12	S	S	
+17328_1#81	ERR1100606	Cattle farm	4	639	Farm 13	S	S	
+17328_1#82	ERR1100607	Cattle farm	5	32	Farm 13	S	S	
+17328_1#9	ERR1100534	Cattle farm	4	1240	Farm 14	S	S	
+17328_3#1	ERR1100608	Cattle farm	5	22	Farm 13	S	S	
+17328_3#10	ERR1100617	Turkey	8	422	Farm 23	R	S	Removed
+17328_3#11	ERR1100618	Turkey	8	422	Farm 23	R	S	Removed
+17328_3#12	ERR1100619	Turkey	4	1231	Farm 24	R	S	Removed
+17328_3#13	ERR1100620	Turkey	8	1225	Farm 25	S	S	
+17328_3#14	ERR1100621	Turkey	8	445	Farm 21	S	S	
+17328_3#15	ERR1100622	Turkey	8	146	Farm 21	S	S	
+17328_3#16	ERR1100623	Turkey	8	146	Farm 21	S	S	Removed
+17328_3#17	ERR1100624	Turkey	8	146	Farm 23	S	S	
+17328_3#18	ERR1100625	Turkey	8	520	Farm 24	S	S	
+17328_3#19	ERR1100626	Turkey	7	821	Farm 24	S	S	
+17328_3#22	ERR1100629	Turkey	8	422	Farm 21	R	S	Removed
+17328_3#23	ERR1100630	Turkey	8	1230	Farm 22	R	S	
+17328_3#24	ERR1100631	Turkey	8	157	Farm 22	R	S	
+17328_3#25	ERR1100632	Turkey	8	148	Farm 22	R	S	
+17328_3#26	ERR1100633	Turkey	8	1224	Farm 22	R	S	
+17328_3#27	ERR1100634	Turkey	8	1230	Farm 22	R	S	Removed
+17328_3#28	ERR1100635	Turkey	4	1094	Farm 24	R	S	
+17328_3#29	ERR1100636	Turkey	4	1231	Farm 25	R	S	
+17328_3#3	ERR1100610	Cattle farm	5	1257	Farm 12	S	S	
+17328_3#30	ERR1100637	Turkey	8	422	Farm 25	R	S	
+17328_3#31	ERR1100638	Turkey	4	1227	Farm 24	R	S	
+17328_3#32	ERR1100639	Cattle farm	5	1250	Farm 26	S	S	
+17328_3#33	ERR1100640	Cattle farm	5	1250	Farm 26	S	S	Removed
+17328_3#34	ERR1100641	Cattle farm	5	1250	Farm 26	S	S	Removed
+17328_3#35	ERR1100642	Cattle farm	5	1250	Farm 26	S	S	Removed
+17328_3#4	ERR1100611	Cattle farm	5	32	Farm 17	S	S	Removed
+17328_3#5	ERR1100612	Chicken	8	1251	Farm 20	R	S	Removed
+17328_3#6	ERR1100613	Chicken	8	8	Farm 20	S	S	
+17328_3#7	ERR1100614	Turkey	3	695	Farm 21	S	S	
+17328_3#8	ERR1100615	Turkey	8	422	Farm 21	R	S	Removed
+17328_3#9	ERR1100616	Turkey	8	1246	Farm 22	R	S	
+17651_2#10	ERR1156187	Pig farm	4	1239	Farm 2	S	S	
+17651_2#11	ERR1156188	Pig farm	5	324	Farm 2	S	S	
+17651_2#12	ERR1156189	Pig farm	8	56	Farm 2	R	S	
+17651_2#13	ERR1156190	Pig farm	8	56	Farm 2	R	S	Removed
+17651_2#14	ERR1156191	Pig farm	3	1258	Farm 2	S	S	
+17651_2#15	ERR1156192	Pig farm	4	505	Farm 2	R	S	
+17651_2#16	ERR1156193	Pig farm	8	56	Farm 2	I	S	Removed
+17651_2#17	ERR1156194	Pig farm	8	56	Farm 2	R	S	Removed
+17651_2#18	ERR1156195	Pig farm	8	56	Farm 2	I	S	Removed
+17651_2#19	ERR1156196	Pig farm	8	56	Farm 2	I	S	Removed
+17651_2#20	ERR1156197	Pig farm	5	19	Farm 2	R	S	
+17651_2#21	ERR1156198	Pig farm	8	56	Farm 2	R	S	Removed
+17651_2#22	ERR1156199	Pig farm	4	123	Farm 3	S	S	
+17651_2#23	ERR1156200	Pig farm	4	10	Farm 3	S	S	
+17651_2#24	ERR1156201	Pig farm	4	1222	Farm 4	S	S	
+17651_2#25	ERR1156202	Pig farm	4	1222	Farm 4	S	S	Removed
+17651_2#26	ERR1156203	Pig farm	5	22	Farm 4	S	S	
+17651_2#27	ERR1156204	Pig farm	5	324	Farm 4	S	S	
+17651_2#28	ERR1156205	Pig farm	5	324	Farm 4	S	S	Removed
+17651_2#29	ERR1156206	Pig farm	1	1263	Farm 4	R	S	
+17651_2#30	ERR1156207	Pig farm	1	18	Farm 4	R	S	
+17651_2#31	ERR1156208	Pig farm	1	18	Farm 4	R	S	Removed
+17651_2#32	ERR1156209	Pig farm	5	32	Farm 3	S	S	
+17651_2#33	ERR1156210	Pig farm	4	1245	Farm 3	S	S	
+17651_2#34	ERR1156211	Pig farm	4	142	Farm 3	S	S	
+17651_2#35	ERR1156212	Pig farm	1	18	Farm 4	R	S	Removed
+17651_2#36	ERR1156213	Pig farm	1	18	Farm 4	R	S	Removed
+17651_2#37	ERR1156214	Pig farm	1	18	Farm 4	R	S	Removed
+17651_2#38	ERR1156215	Pig farm	1	18	Farm 4	R	S	Removed
+17651_2#39	ERR1156216	Pig farm	3	834	Farm 5	S	S	
+17651_2#4	ERR1156181	Cattle farm	4	751	Farm 1	S	S	
+17651_2#40	ERR1156217	Pig farm	8	56	Farm 5	I	S	
+17651_2#41	ERR1156218	Pig farm	8	56	Farm 5	R	S	Removed
+17651_2#42	ERR1156219	Pig farm	8	56	Farm 5	I	S	Removed
+17651_2#43	ERR1156220	Pig farm	8	56	Farm 5	I	S	Removed
+17651_2#44	ERR1156221	Pig farm	5	19	Farm 5	R	S	
+17651_2#45	ERR1156222	Pig farm	1	18	Farm 5	R	S	
+17651_2#46	ERR1156223	Pig farm	1	17	Farm 5	R	S	
+17651_2#47	ERR1156224	Pig farm	1	17	Farm 5	R	S	Removed
+17651_2#48	ERR1156225	Pig farm	1	17	Farm 5	R	S	Removed
+17651_2#49	ERR1156226	Pig farm	4	97	Farm 5	S	S	
+17651_2#5	ERR1156182	Cattle farm	5	32	Farm 1	S	S	
+17651_2#50	ERR1156227	Pig farm	4	1226	Farm 5	S	S	
+17651_2#51	ERR1156228	Pig farm	5	22	Farm 6	S	S	
+17651_2#52	ERR1156229	Pig farm	5	22	Farm 6	S	S	Removed
+17651_2#53	ERR1156230	Pig farm	4	142	Farm 6	S	S	
+17651_2#54	ERR1156231	Pig farm	5	1228	Farm 6	R	S	
+17651_2#55	ERR1156232	Pig farm	5	1228	Farm 6	I	S	Removed
+17651_2#56	ERR1156233	Pig farm	4	505	Farm 6	R	S	
+17651_2#57	ERR1156234	Pig farm	4	505	Farm 6	R	S	Removed
+17651_2#58	ERR1156235	Pig farm	4	505	Farm 6	R	S	Removed
+17651_2#59	ERR1156236	Pig farm	8	56	Farm 6	I	S	
+17651_2#6	ERR1156183	Cattle farm	5	1252	Farm 1	S	S	
+17651_2#60	ERR1156237	Pig farm	5	128	Farm 6	R	S	
+17651_2#61	ERR1156238	Pig farm	4	505	Farm 6	R	S	Removed
+17651_2#62	ERR1156239	Pig farm	5	1228	Farm 6	I	S	Removed
+17651_2#63	ERR1156240	Pig farm	5	1228	Farm 6	R	S	Removed
+17651_2#64	ERR1156241	Pig farm	4	1237	Farm 7	S	S	
+17651_2#65	ERR1156242	Pig farm	5	501	Farm 7	S	S	
+17651_2#66	ERR1156243	Pig farm	4	1235	Farm 7	S	S	
+17651_2#67	ERR1156244	Pig farm	4	374	Farm 7	S	S	
+17651_2#68	ERR1156245	Pig farm	4	10	Farm 8	S	S	
+17651_2#69	ERR1156246	Pig farm	4	49	Farm 8	S	S	
+17651_2#7	ERR1156184	Cattle farm	4	1232	Farm 1	S	S	
+17651_2#70	ERR1156247	Pig farm	4	1260	Farm 8	S	S	
+17651_2#71	ERR1156248	Pig farm	4	97	Farm 8	I	S	
+17651_2#72	ERR1156249	Pig farm	4	1222	Farm 8	S	S	
+17651_2#73	ERR1156250	Pig farm	4	97	Farm 8	S	S	
+17651_2#74	ERR1156251	Pig farm	4	150	Farm 8	S	S	
+17651_2#75	ERR1156252	Pig farm	4	524	Farm 9	S	S	
+17651_2#76	ERR1156253	Pig farm	4	639	Farm 9	S	S	
+17651_2#77	ERR1156254	Pig farm	1	262	Farm 9	S	S	
+17651_2#78	ERR1156255	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#79	ERR1156256	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#8	ERR1156185	Cattle farm	4	820	Farm 1	S	S	
+17651_2#80	ERR1156257	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#81	ERR1156258	Pig farm	1	184	Farm 9	R	S	
+17651_2#82	ERR1156259	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#83	ERR1156260	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#84	ERR1156261	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#85	ERR1156262	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#86	ERR1156263	Pig farm	1	262	Farm 9	R	S	Removed
+17651_2#87	ERR1156264	Pig farm	4	49	Farm 10	S	S	
+17651_2#88	ERR1156265	Pig farm	4	1236	Farm 10	S	S	
+17651_2#89	ERR1156266	Pig farm	4	639	Farm 10	S	S	
+17651_2#9	ERR1156186	Pig farm	5	104	Farm 2	S	S	
+17651_2#90	ERR1156267	Pig farm	8	511	Farm 10	I	S	
+17651_4#1	ERR1156268	Pig farm	4	509	Farm 10	S	S	
+17651_4#10	ERR1156277	Turkey	8	422	Farm 21	R	S	Removed
+17651_4#11	ERR1156278	Turkey	8	422	Farm 21	R	S	Removed
+17651_4#12	ERR1156279	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#13	ERR1156280	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#14	ERR1156281	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#15	ERR1156282	Turkey	8	422	Farm 21	R	S	Removed
+17651_4#16	ERR1156283	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#17	ERR1156284	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#18	ERR1156285	Turkey	8	422	Farm 23	R	S	Removed
+17651_4#19	ERR1156286	Turkey	8	422	Farm 25	R	S	
+17651_4#2	ERR1156269	Pig farm	8	9	Farm 10	R	S	
+17651_4#20	ERR1156287	Turkey	8	422	Farm 25	R	S	
+17651_4#21	ERR1156288	Chicken	8	26	Farm 28	S	S	
+17651_4#22	ERR1156289	Chicken	8	527	Farm 28	S	S	
+17651_4#23	ERR1156290	Chicken	4	1151	Farm 28	R	S	
+17651_4#24	ERR1156291	Chicken	4	1094	Farm 28	R	S	
+17651_4#25	ERR1156292	Chicken	8	527	Farm 28	S	S	Removed
+17651_4#26	ERR1156293	Chicken	4	1259	Farm 28	R	S	
+17651_4#27	ERR1156294	Chicken	4	1241	Farm 28	I	S	
+17651_4#28	ERR1156295	Chicken	4	1094	Farm 27	R	S	
+17651_4#29	ERR1156296	Chicken	8	1251	Farm 27	R	S	
+17651_4#3	ERR1156270	Pig farm	4	1229	Farm 11	S	S	
+17651_4#31	ERR1156298	Chicken	8	1251	Farm 27	R	S	Removed
+17651_4#32	ERR1156299	Chicken	4	1151	Farm 27	I	S	
+17651_4#33	ERR1156300	Chicken	8	1251	Farm 27	R	S	
+17651_4#34	ERR1156301	Chicken	8	9	Farm 27	R	S	
+17651_4#35	ERR1156302	Chicken	4	1151	Farm 27	I	S	Removed
+17651_4#36	ERR1156303	Chicken	4	1259	Farm 28	R	S	
+17651_4#37	ERR1156304	Chicken	8	887	Farm 28	R	S	
+17651_4#38	ERR1156305	Chicken	8	12	Farm 28	R	S	
+17651_4#39	ERR1156306	Chicken	8	1091	Farm 28	R	S	
+17651_4#4	ERR1156271	Pig farm	4	1229	Farm 11	S	S	Removed
+17651_4#40	ERR1156307	Chicken	8	12	Farm 28	R	S	Removed
+17651_4#41	ERR1156308	Chicken	4	1094	Farm 28	R	S	Removed
+17651_4#42	ERR1156309	Chicken	8	370	Farm 27	S	S	
+17651_4#43	ERR1156310	Chicken	8	370	Farm 27	S	S	
+17651_4#44	ERR1156311	Chicken	8	1254	Farm 27	S	S	
+17651_4#45	ERR1156312	Chicken	5	32	Farm 27	S	S	
+17651_4#46	ERR1156313	Chicken	8	370	Farm 27	S	S	
+17651_4#47	ERR1156314	Chicken	4	1094	Farm 27	R	S	Removed
+17651_4#48	ERR1156315	Chicken	8	1251	Farm 27	R	S	Removed
+17651_4#5	ERR1156272	Pig farm	5	529	Farm 11	S	S	
+17651_4#51	ERR1156318	Chicken meat	8	1249	Supermarket 31	S	R	
+17651_4#53	ERR1156320	Pig farm	4	184	Farm 7	S	S	
+17651_4#6	ERR1156273	Pig farm	4	1242	Farm 11	S	S	
+17651_4#7	ERR1156274	Pig farm	4	1236	Farm 11	S	S	
+17651_4#8	ERR1156275	Pig farm	8	56	Farm 11	I	S	Removed
+17651_4#9	ERR1156276	Cattle farm	4	372	Farm 12	S	S	
+18090_5#48	ERR1216302	Cattle farm	5	402	Farm 13	R	S	Removed
+18090_5#49	ERR1216303	Turkey	8	422	Farm 23	R	S	Removed
+18090_5#50	ERR1216304	Turkey	8	10	Farm 24	S	S	
+18090_5#51	ERR1216305	Turkey	8	422	Farm 22	R	S	
+18090_5#52	ERR1216306	Cattle farm	5	1250	Farm 26	S	S	Removed
+64/3	CP012522	Reference strain	5	21	n/a	n/a	not applicable	
+ATCC_700221	CP014449	Reference strain	1	17	n/a	n/a	not applicable	
+Aus0004	CP003351	Reference strain	1	17	n/a	n/a	not applicable	
+Aus0085	CP006620	Reference strain	9	203	n/a	n/a	not applicable	
+DO 	CP003583.1	Reference strain	1	18	n/a	n/a	not applicable	
+EFE10021	LN999844.1	Reference strain	4	54	n/a	n/a	not applicable	
+Enterococcus faecium 6E6	CP013994	Reference strain	9	203	n/a	n/a	not applicable	
+NRRL_B_2354	CP004063	Reference strain	5	32	n/a	n/a	not applicable	
+T110	CP006030	Reference strain	10	812	n/a	n/a	not applicable	
+UW8175	CP011828	Reference strain	5	904	n/a	n/a	not applicable	
