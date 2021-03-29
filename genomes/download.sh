@@ -34,4 +34,5 @@ for acc in *
         fasterq-dump -p -O ../ab_dataset_reads/"$acc" --threads 4 "$acc"
         pigz -p 4 ../ab_dataset_reads/"$acc"/*.fastq
 done
+cd ..
 rm -rf zaheer_2020_alberta_sra
